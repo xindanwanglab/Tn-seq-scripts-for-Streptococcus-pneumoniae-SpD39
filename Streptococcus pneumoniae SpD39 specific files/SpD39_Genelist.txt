@@ -1,0 +1,1911 @@
+SPD_0001	dnaA	chromosomal replication initiator protein DnaA		0	1362
+SPD_0002	dnaN	"DNA polymerase III, beta subunit"		1520	2657
+SPD_0003	SPD_0003	hypothetical protein		2721	2916
+SPD_0004	SPD_0004	GTP-binding protein		2999	4115
+SPD_0005	pth	peptidyl-tRNA hydrolase		4185	4755
+SPD_0006	mfd	transcription-repair coupling factor		4755	8265
+SPD_0007	SPD_0007	S4 domain protein		8322	8589
+SPD_0008	SPD_0008	"septum formation initiator, putative"		8581	8950
+SPD_0009	SPD_0009	hypothetical protein		8954	9077
+SPD_0010	SPD_0010	hypothetical protein		9069	10338
+SPD_0011	tilS	tRNA(Ile)-lysidine synthetase		10334	11612
+SPD_0012	hpt	hypoxanthine phosphoribosyltransferase		11615	12158
+SPD_0013	ftsH	cell division protein FtsH		12173	14132
+SPD_0014	comX1	transcriptional regulator ComX1		14253	14733
+SPD_0023	SPD_0023	hypothetical protein		22167	22404
+SPD_0024	purA	adenylosuccinate synthetase		22634	23921
+SPD_0025	SPD_0025	cytidine/deoxycytidylate deaminase family protein		24121	24589
+SPD_0027	dut	deoxyuridine 5'-triphosphate nucleotidohydrolase		24775	25219
+SPD_0028	SPD_0028	phosphoglycerate mutase family protein		25178	25736
+SPD_0029	radA	DNA repair protein RadA		25848	27111
+SPD_0030	SPD_0030	hypothetical protein		27183	27681
+SPD_0031	SPD_0031	"membrane protein, putative"		27705	28365
+SPD_0032	SPD_0032	hypothetical protein		28357	28489
+SPD_0033	prsA	ribose-phosphate pyrophosphokinase		28633	29602
+SPD_0035	SPD_0035	hypothetical protein		30142	30376
+SPD_0036	SPD_0036	hypothetical protein		30368	30485
+SPD_0037	SPD_0037	hypothetical protein		30699	31053
+SPD_0038	SPD_0038	DNA polymerase I		31305	33939
+SPD_0039	SPD_0039	hypothetical protein		34023	34461
+SPD_0040	SPD_0040	"membrane protein, putative"		34651	35662
+SPD_0041	araT	aromatic amino acid aminotransferase		35810	36980
+SPD_0042	recO	DNA repair protein RecO		36976	37747
+SPD_0043	plsX	fatty acid/phospholipid synthesis protein PlsX		37743	38736
+SPD_0044	SPD_0044	"acyl carrier protein, putative"		38741	38975
+SPD_0046	blpU	bacteriocin BlpU		39513	39744
+SPD_0047	SPD_0047	hypothetical protein		39746	39872
+SPD_0049	comA	competence factor transporting ATP-binding/permease protein ComA		41901	44055
+SPD_0050	comB	competence factor transport protein ComB		44067	45417
+SPD_0051	purC	phosphoribosylaminoimidazole-succinocarboxamide synthase		45586	46294
+SPD_0052	SPD_0052	"phosphoribosylformylglycinamidine synthase, putative"		46495	50221
+SPD_0053	purF	amidophosphoribosyltransferase		50313	51756
+SPD_0054	purM	phosphoribosylformylglycinamidine cyclo-ligase		51792	52815
+SPD_0055	purN	phosphoribosylglycinamide formyltransferase		52811	53357
+SPD_0056	SPD_0056	"vanZ protein, putative"		53440	53950
+SPD_0057	purH	bifunctional purine biosynthesis protein PurH		53974	55522
+SPD_0058	purD	phosphoribosylamine--glycine ligase		55643	56906
+SPD_0059	purE	"phosphoribosylaminoimidazole carboxylase, catalytic subunit"		57308	57797
+SPD_0060	purK	"phosphoribosylaminoimidazole carboxylase, ATPase subunit"		57783	58875
+SPD_0061	SPD_0061	hypothetical protein		58884	59112
+SPD_0062	purB	adenylosuccinate lyase		59174	60473
+SPD_0063	strH	beta-N-acetylhexosaminidase		60527	64466
+SPD_0064	SPD_0064	"transcriptional regulator, GntR family protein"		64780	65524
+SPD_0065	bgaC	Beta-galactosidase 3		65844	67632
+SPD_0066	SPD_0066	"PTS system, IIB component"		67628	68105
+SPD_0067	SPD_0067	"PTS system, IIC component"		68132	69038
+SPD_0068	SPD_0068	"PTS system, IID component"		69024	69840
+SPD_0069	SPD_0069	"PTS system, IIA component"		69846	70251
+SPD_0070	agaS	sugar isomerase domain protein AgaS		70549	71716
+SPD_0071	galM	aldose 1-epimerase		71831	72869
+SPD_0072	SPD_0072	glyoxalase family protein		73075	73930
+SPD_0073	SPD_0073	hypothetical protein		74079	74337
+SPD_0074	SPD_0074	"phosphorylase, Pnp/Udp family protein, putative"		75311	76076
+SPD_0075	SPD_0075	hypothetical protein		76331	76517
+SPD_0076	SPD_0076	"potassium uptake protein, Trk family protein"		76685	78065
+SPD_0077	SPD_0077	"potassium uptake protein, Trk family protein"		78078	78744
+SPD_0078	SPD_0078	"glycosyl transferase, group 2 family protein"		79053	79593
+SPD_0079	SPD_0079	hypothetical protein		79659	80070
+SPD_0080	SPD_0080	cell wall surface anchor family protein		80185	83671
+SPD_0081	SPD_0081	DNA-binding response regulator		83837	84536
+SPD_0082	SPD_0082	sensor histidine kinase		84532	85585
+SPD_0083	rpsD	ribosomal protein S4		85779	86391
+SPD_0084	SPD_0084	"IS630-Spn1, transposase Orf1"		86576	86735
+SPD_0085	SPD_0085	hypothetical protein		86832	86973
+SPD_0086	SPD_0086	hypothetical protein		87052	87313
+SPD_0087	SPD_0087	hypothetical protein		87266	87488
+SPD_0088	SPD_0088	"ABC transporter, permease protein"		87806	88736
+SPD_0089	SPD_0089	"ABC transporter, permease protein"		88749	89673
+SPD_0090	SPD_0090	"ABC transporter, substrate-binding protein"		89930	91406
+SPD_0091	SPD_0091	hypothetical protein		91677	92664
+SPD_0092	SPD_0092	hypothetical protein		92785	93646
+SPD_0093	SPD_0093	"membrane protein, putative"		93717	94782
+SPD_0094	SPD_0094	hypothetical protein		94844	95756
+SPD_0095	SPD_0095	hypothetical protein		95748	96342
+SPD_0096	SPD_0096	"transcriptional regulator, PadR family protein"		96328	96655
+SPD_0097	SPD_0097	"transporter, putative"		96793	97960
+SPD_0098	SPD_0098	"glycosyl transferase, group 2 family protein"		98017	99175
+SPD_0099	capD	capsular polysaccharide biosynthesis protein		99216	101067
+SPD_0101	SPD_0101	"hydrolase, haloacid dehalogenase-like family protein"		101462	102095
+SPD_0102	sdhA	"L-serine dehydratase, iron-sulfur-dependent, alpha subunit"		102116	102989
+SPD_0103	sdhB	"L-serine dehydratase, iron-sulfur-dependent, beta subunit"		102997	103669
+SPD_0104	SPD_0104	LysM domain protein		103910	104414
+SPD_0105	SPD_0105	hypothetical protein		104536	104785
+SPD_0106	SPD_0106	"bacteriocin, putative"		105241	105490
+SPD_0107	SPD_0107	"membrnae protein, putative"		105544	107653
+SPD_0108	SPD_0108	"amino acid ABC transporter, ATP-binding protein, putative"		107649	108291
+SPD_0109	SPD_0109	"amino acid ABC transporter, periplasmic amino acid-binding protein, putative"		108496	109303
+SPD_0110	argG	argininosuccinate synthase		109319	110516
+SPD_0111	argH	argininosuccinate lyase		110544	111936
+SPD_0112	SPD_0112	hypothetical protein		112224	113088
+SPD_0114	SPD_0114	hypothetical protein		115765	116233
+SPD_0115	SPD_0115	hypothetical protein		116229	117582
+SPD_0116	SPD_0116	hypothetical protein		117727	118108
+SPD_0117	SPD_0117	hypothetical protein		119687	120059
+SPD_0118	SPD_0118	hypothetical protein		120652	120778
+SPD_0119	SPD_0119	"membrane protein, putative"		121083	122142
+SPD_0120	SPD_0120	"membrane protein, putative"		122455	123433
+SPD_0121	SPD_0121	hypothetical protein		123809	124184
+SPD_0122	SPD_0122	hypothetical protein		124391	125294
+SPD_0123	SPD_0123	hypothetical protein		125349	125703
+SPD_0124	SPD_0124	"membrane protein, putative"		125669	126428
+SPD_0125	SPD_0125	hypothetical protein		127556	127802
+SPD_0126	pspA	pneumococcal surface protein A		128355	130215
+SPD_0127	trmU	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase		130615	131737
+SPD_0128	SPD_0128	MutT/nudix family protein		131877	132333
+SPD_0129	gidA	tRNA uridine 5-carboxymethylaminomethyl modification enzyme gidA(glucose-inhibited division protein A)		132342	134256
+SPD_0130	SPD_0130	metallo-beta-lactamase superfamily protein domain protein		134635	136315
+SPD_0131	SPD_0131	hypothetical protein		136316	136550
+SPD_0132	SPD_0132	hypothetical protein		137367	137520
+SPD_0133	SPD_0133	hypothetical protein		137521	137707
+SPD_0134	SPD_0134	hypothetical protein		137884	138568
+SPD_0135	rimI	ribosomal-protein-alanine acetyltransferase		138564	139002
+SPD_0136	SPD_0136	glycoprotease family protein		138991	140002
+SPD_0138	SPD_0138	"glycosyl transferase, group 1 family protein"		142603	143809
+SPD_0139	SPD_0139	"glycosyl transferase, group 2 family protein"		143801	144755
+SPD_0140	SPD_0140	"ABC transporter, ATP-binding protein"		144764	146381
+SPD_0141	SPD_0141	hypothetical protein		146690	147158
+SPD_0142	SPD_0142	hypothetical protein		147163	147919
+SPD_0143	SPD_0143	"UDP-glucose 6-dehydrogenase, putative"		147931	149104
+SPD_0144	SPD_0144	transcriptional regulator		149498	150362
+SPD_0145	SPD_0145	hypothetical protein		150652	150886
+SPD_0146	SPD_0146	CAAX amino terminal protease family protein		150907	151585
+SPD_0147	SPD_0147	CAAX amino terminal protease family protein		151596	152262
+SPD_0148	SPD_0148	"transporter, major facilitator family protein"		152333	153560
+SPD_0149	SPD_0149	hypothetical protein		153892	154366
+SPD_0150	SPD_0150	"ABC transporter, substrate-binding protein"		154469	155300
+SPD_0151	SPD_0151	lipoprotein		155453	156308
+SPD_0152	SPD_0152	"peptidase, M20/M25/M40 family protein"		156407	157781
+SPD_0153	SPD_0153	"ABC transporter, ATP-binding protein"		157773	158835
+SPD_0154	SPD_0154	"ABC transporter, permease protein, putative"		158836	159529
+SPD_0155	SPD_0155	"membrane protein, putative"		159558	160128
+SPD_0156	SPD_0156	"membrane protein, putative"		160262	160877
+SPD_0157	SPD_0157	"sensor histidine kinase, putative"		160878	162525
+SPD_0158	SPD_0158	DNA-binding response regulator		162536	163823
+SPD_0159	SPD_0159	membrane protein putative		163874	164408
+SPD_0160	SPD_0160	"nrdI protein, putative"		164485	164956
+SPD_0161	SPD_0161	"membrane protein, putative"		165248	166511
+SPD_0162	SPD_0162	"membrane protein, putative"		166820	167279
+SPD_0163	SPD_0163	hypothetical protein		167275	167716
+SPD_0164	SPD_0164	hypothetical protein		167831	168011
+SPD_0165	hexB	DNA mismatch repair protein HexB		168071	170021
+SPD_0166	ribH	"6,7-dimethyl-8-ribityllumazine synthase"		170345	170813
+SPD_0167	ribB	"3,4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II"		170813	172019
+SPD_0168	ribE	"riboflavin synthase, alpha subunit"		172038	172674
+SPD_0169	ribD	riboflavin biosynthesis protein RibD		172658	173759
+SPD_0170	ruvA	Holliday junction DNA helicase RuvA		174162	174756
+SPD_0171	tag	DNA-3-methyladenine glycosylase I		174765	175329
+SPD_0172	SPD_0172	CAAX amino terminal protease family protein		175325	176003
+SPD_0173	SPD_0173	MccC family protein		176157	177189
+SPD_0174	SPD_0174	"membrnae protein, putative"		177443	178148
+SPD_0175	SPD_0175	"magnesium transporter, CorA family protein"		178138	179083
+SPD_0176	uvrA	"excinuclease ABC, A subunit"		179214	182046
+SPD_0177	SPD_0177	peptidase M24 family protein		182038	183100
+SPD_0178	SPD_0178	hypothetical protein		183231	183630
+SPD_0179	SPD_0179	"lipoprotein, putative"		183695	184265
+SPD_0180	SPD_0180	hypothetical protein		184351	184618
+SPD_0181	SPD_0181	conserved hypothetical protein TIGR00250		184621	185041
+SPD_0182	SPD_0182	hypothetical protein		185056	185362
+SPD_0183	folC	folylpolyglutamate synthase		185812	187069
+SPD_0184	SPD_0184	"lipoprotein, putative"		187152	187584
+SPD_0185	SPD_0185	cardiolipin synthetase		187729	189262
+SPD_0186	SPD_0186	competence-induced protein Ccs4		189519	191058
+SPD_0187	nrdD	anaerobic ribonucleoside-triphosphate reductase		191177	193385
+SPD_0188	SPD_0188	hypothetical protein		193396	193537
+SPD_0189	SPD_0189	"acetyltransferase, GNAT family protein"		193580	194087
+SPD_0190	nrdG	anaerobic ribonucleoside-triphosphate reductase activating protein		194079	194670
+SPD_0191	SPD_0191	hypothetical protein		194666	195284
+SPD_0192	rpsJ	ribosomal protein S10		195550	195859
+SPD_0193	rplC	ribosomal protein L3		196075	196702
+SPD_0194	rplD	ribosomal protein L4		196726	197350
+SPD_0195	rplW	ribosomal protein L23		197349	197646
+SPD_0196	rplB	ribosomal protein L2		197663	198497
+SPD_0197	rpsS	ribosomal protein S19		198600	198882
+SPD_0198	rplV	ribosomal protein L22		198893	199238
+SPD_0199	rpsC	ribosomal protein S3		199250	199904
+SPD_0200	rplP	ribosomal protein L16		199907	200321
+SPD_0201	rpmC	ribosomal protein L29		200330	200537
+SPD_0202	rpsQ	ribosomal protein S17		200561	200822
+SPD_0203	rplN	ribosomal protein L14		200847	201216
+SPD_0204	rplX	ribosomal protein L24		201293	201599
+SPD_0205	rplE	ribosomal protein L5		201622	202165
+SPD_0206	rpsN	ribosomal protein S14		202182	202452
+SPD_0207	rpsH	ribosomal protein S8		202736	203135
+SPD_0208	rplF	ribosomal protein L6		203326	203863
+SPD_0209	rplR	ribosomal protein L18		203946	204303
+SPD_0210	rpsE	ribosomal protein S5		204320	204815
+SPD_0211	rpmD	ribosomal protein L30		204828	205011
+SPD_0212	rplO	ribosomal protein L15		205155	205596
+SPD_0213	secY	"preprotein translocase, SecY subunit"		205608	206919
+SPD_0214	adk	adenylate kinase		207069	207708
+SPD_0215	infA	translation initiation factor IF-1		207824	208043
+SPD_0216	rpsM	ribosomal protein S13		208201	208567
+SPD_0217	rpsK	ribosomal protein S11		208584	208968
+SPD_0218	rpoA	"DNA-directed RNA polymerase, alpha subunit"		209010	209946
+SPD_0219	rplQ	ribosomal protein L17		209957	210344
+SPD_0220	SPD_0220	hypothetical protein		210608	210875
+SPD_0222	SPD_0222	phosphoglycerate mutase family protein		212466	213159
+SPD_0223	SPD_0223	"iron(III) ABC transporter, permease protein"		213261	214254
+SPD_0224	SPD_0224	"iron(III) ABC transporter, permease protein"		214280	214907
+SPD_0225	SPD_0225	"ABC transporter, ATP-binding protein"		214896	215988
+SPD_0226	SPD_0226	"iron ABC transporter, iron-binding protein"		216000	216369
+SPD_0227	SPD_0227	"iron(III) ABC transporter, iron-binding protein"		216513	216708
+SPD_0228	SPD_0228	"transcriptional regulator, AraC family protein"		217339	217537
+SPD_0229	SPD_0229	glycyl-radical enzyme activating protein family protein		217611	218388
+SPD_0230	SPD_0230	"transcriptional regulator, DeoR family protein"		218509	219256
+SPD_0231	SPD_0231	transcriptional activator		219268	220249
+SPD_0232	SPD_0232	"PTS system, IIA component"		220443	220764
+SPD_0233	SPD_0233	"PTS system, IIB component"		220809	221118
+SPD_0234	SPD_0234	"PTS system, IIC component"		221134	222433
+SPD_0235	pfl	pyruvate formate-lyase		222583	225022
+SPD_0236	talC	"transaldolase, putative"		225040	225709
+SPD_0237	gldA	glycerol dehydrogenase		225726	226815
+SPD_0238	leuS	leucyl-tRNA synthetase		227269	229771
+SPD_0239	SPD_0239	"acetyltransferase, GNAT family protein"		229964	230660
+SPD_0240	SPD_0240	"acetyltransferase, GNAT family protein"		230671	231088
+SPD_0241	ruvB	Holliday junction DNA helicase RuvB		232128	233127
+SPD_0242	SPD_0242	hypothetical protein		233107	233680
+SPD_0243	uppS	undecaprenyl diphosphate synthase		233910	234669
+SPD_0244	cdsA	phosphatidate cytidylyltransferase		234677	235481
+SPD_0245	eep	zinc metalloprotease Eep		235502	236762
+SPD_0246	proS	prolyl-tRNA synthetase		236774	238628
+SPD_0247	SPD_0247	"glycosyl hydrolase, family protein 1"		238727	240107
+SPD_0248	glmS	"glucosamine--fructose-6-phosphate aminotransferase, isomerizing"		240298	242107
+SPD_0249	SPD_0249	hypothetical protein		242225	243275
+SPD_0250	SPD_0250	"pullulanase, extracellular"		243374	247145
+SPD_0251	rpsL	ribosomal protein S12		247561	247975
+SPD_0252	rpsG	ribosomal protein S7		247994	248465
+SPD_0253	fusA	translation elongation factor G		248889	250971
+SPD_0254	polC	"DNA polymerase III, alpha subunit, Gram-positive type"		251074	255466
+SPD_0255	SPD_0255	"addiction module antitoxin, RelB/DinJ family protein, putative"		255567	255831
+SPD_0256	SPD_0256	conserved hypothetical protein TIGR00053		255823	256102
+SPD_0257	SPD_0257	hypothetical protein		256122	256275
+SPD_0258	pepS	aminopeptidase PepS		256296	257538
+SPD_0259	SPD_0259	Transglycosylase associated protein		257547	257778
+SPD_0260	rsuA-1	ribosomal small subunit pseudouridine synthase A		258090	258813
+SPD_0261	pepC	aminopeptidase C		259029	260364
+SPD_0262	SPD_0262	"PTS system, mannose/fructose/sorbose family protein, IID component"		260419	261331
+SPD_0263	manM	"PTS system, mannose-specific IIC component"		261354	262158
+SPD_0264	manL	"PTS system, mannose-specific IIAB components"		262185	263175
+SPD_0265	SPD_0265	"alcohol dehydrogenase, zinc-containing"		263407	264427
+SPD_0266	SPD_0266	Cof family protein		264765	265578
+SPD_0267	SPD_0267	xanthine/uracil permease family protein		265767	267186
+SPD_0268	SPD_0268	CAAX amino terminal protease family protein		267254	267947
+SPD_0269	folP	dihydropteroate synthase		268041	269016
+SPD_0270	SPD_0270	folylpolyglutamate synthase		269017	270340
+SPD_0271	folE	GTP cyclohydrolase I		270320	270875
+SPD_0272	sulD	bifunctional folate synthesis protein		270917	271730
+SPD_0273	SPD_0273	hypothetical protein		271774	272146
+SPD_0274	rplM	ribosomal protein L13		272448	272895
+SPD_0275	rpsI	ribosomal protein S9		272914	273307
+SPD_0276	SPD_0276	hypothetical protein		273993	274359
+SPD_0277	bglA-1	6- phospho-beta-glucosidase		274548	275985
+SPD_0278	SPD_0278	hypothetical protein		276036	276276
+SPD_0279	SPD_0279	"PTS system, IIB component"		276405	276720
+SPD_0280	SPD_0280	"transcriptional regulator, putative"		276843	278817
+SPD_0281	SPD_0281	"PTS system, IIA component"		278826	279141
+SPD_0282	SPD_0282	"membrane protein, putative"		279159	279666
+SPD_0283	SPD_0283	"PTS system, IIC component"		279745	281092
+SPD_0284	SPD_0284	hypothetical protein		281473	281650
+SPD_0285	SPD_0285	"glycosyl hydrolase, family protein 31"		282051	284265
+SPD_0286	SPD_0286	glutathione peroxidase		284486	284963
+SPD_0287	SPD_0287	hyaluronate lyase precursor		285185	288389
+SPD_0289	eda	4-hydroxy-2-oxoglutarate aldolase/2-deydro-3-deoxyphosphogluconate aldolase		289532	290162
+SPD_0290	SPD_0290	"carbohydrate kinase, PfkB family protein"		290171	291173
+SPD_0291	SPD_0291	"ribose 5-phosphate isomerase, putative"		291203	291845
+SPD_0292	SPD_0292	"oxidoreductase, short chain dehydrogenase/reductase family protein"		291863	292679
+SPD_0293	SPD_0293	"PTS system, IIA component"		292949	293384
+SPD_0294	SPD_0294	glucuronyl hydrolase		293395	294586
+SPD_0295	SPD_0295	"PTS system, IIB component"		294596	295088
+SPD_0296	SPD_0296	"PTS system, IIC component"		295102	295882
+SPD_0297	SPD_0297	"PTS system, IID component"		295868	296687
+SPD_0298	yajC-1	"preprotein translocase, YajC subunit"		296713	296980
+SPD_0300	SPD_0300	oligohyaluronate lyase		297001	298903
+SPD_0301	regR	sugar binding transcriptional regulator RegR		298962	299964
+SPD_0302	SPD_0302	hypothetical protein		300409	300652
+SPD_0303	SPD_0303	"transcriptional regulator, putative"		300667	300862
+SPD_0304	mraW	S-adenosyl-methyltransferase MraW		301027	301978
+SPD_0305	ftsL	cell division protein FtsL		301989	302307
+SPD_0306	pbpX	penicillin-binding protein 2X		302310	304563
+SPD_0307	mraY	phospho-N-acetylmuramoyl-pentapeptide- transferase		304564	305545
+SPD_0308	clpL	"ATP-dependent Clp protease, ATP-binding subunit"		306101	308207
+SPD_0309	luxS	S-ribosylhomocysteine lyase (autoinducer-2 production protein luxS) (AI-2 synthesis protein)		308502	308985
+SPD_0310	SPD_0310	hypothetical protein		309079	310564
+SPD_0311	dexB	"glucan 1,6-alpha-glucosidase"		310716	312324
+SPD_0313	SPD_0313	hypothetical protein		312482	312656
+SPD_0315	cps2A	integral membrane regulatory protein Cps2A		313744	315190
+SPD_0316	cps2B	tyrosine-protein phosphatase CpsB		315191	315923
+SPD_0317	cps2C	"chain length determinant protein/polysaccharide export protein, MPA1 family protein"		315931	316624
+SPD_0318	cps2D	tyrosine-protein kinase Cps2D cytosolic ATPase domain		316633	317314
+SPD_0319	cps2E	undecaprenylphosphate glucosephosphotransferase Cps2E		317328	318696
+SPD_0320	cps2T	"glycosyl transferase, group 1 family protein, putative"		318727	319912
+SPD_0321	cps2F	"glycosyl transferase, group 2 family protein"		319904	320849
+SPD_0322	cps2G	"glycosyl transferase, group 1 family protein"		320864	321911
+SPD_0323	csp2H	Polysaccharide polymerase		321951	323115
+SPD_0324	cps2I	"glycosyl transferase, group 1 family protein, putative"		323244	324402
+SPD_0325	SPD_0325	"membrane protein, putative"		324398	325808
+SPD_0326	cps2K	"UDP-glucose 6-dehydrogenase, putative"		325843	327082
+SPD_0327	cps2P	UDP-galactopyranose mutase		327110	327716
+SPD_0328	cps2L	glucose-1-phosphate thymidylyltransferase		327793	328663
+SPD_0329	rfbC	"dTDP-4-dehydrorhamnose 3,5-epimerase, putative"		328663	329257
+SPD_0330	rfbB	"dTDP-glucose 4,6-dehydratase"		329269	330319
+SPD_0331	rfbD	dTDP-4-dehydrorhamnose reductase		330384	331236
+SPD_0333	SPD_0333	hypothetical protein		332280	332439
+SPD_0334	aliA	"oligopeptide ABC transporter, oligopeptide-binding protein AliA"		332640	334623
+SPD_0335	SPD_0335	cell wall surface anchor family protein		334922	340226
+SPD_0336	pbp1A	penicillin-binding protein 1A		340392	342552
+SPD_0337	recU	recombination protein U		342548	343145
+SPD_0338	SPD_0338	hypothetical protein		343210	343738
+SPD_0339	SPD_0339	hypothetical protein		343807	344137
+SPD_0341	SPD_0341	"RNA methylase family protein UPF0020, putative"		344622	345780
+SPD_0342	SPD_0342	hypothetical protein		345792	347187
+SPD_0343	gnd	"6-phosphogluconate dehydrogenase, decarboxylating"		347262	348687
+SPD_0344	SPD_0344	DNA-binding response regulator		348698	349388
+SPD_0345	cbpC	choline binding protein C		349485	350502
+SPD_0346	mvk	mevalonate kinase		350623	351502
+SPD_0347	mvaD	diphosphomevalonate decarboxylase		351483	352437
+SPD_0348	mvaK2	phosphomevalonate kinase		352423	353431
+SPD_0349	fni	"isopentenyl-diphosphate delta-isomerase, type 2"		353414	354425
+SPD_0350	SPD_0350	hypothetical protein		354502	355201
+SPD_0351	SPD_0351	"sensor histidine kinase, putative"		355197	356193
+SPD_0352	SPD_0352	DNA-binding response regulator		356206	356839
+SPD_0353	SPD_0353	hypothetical protein		356839	356986
+SPD_0355	SPD_0355	hypothetical protein		357758	357953
+SPD_0357	cbpF	choline binding protein F		358922	359807
+SPD_0359	SPD_0359	hypothetical protein		360868	361081
+SPD_0360	mtlA	"PTS system, mannitol-specific IIBC components"		361289	363059
+SPD_0361	SPD_0361	"transcriptional regulator, putative"		363082	365038
+SPD_0362	mtlA2	"PTS system, mannitol-specific enzyme IIA"		365039	365477
+SPD_0363	SPD_0363	mannitol-1-phosphate 5-dehydrogenase		365538	366675
+SPD_0364	SPD_0364	"ABC-type polar amino acid transport system, ATPase component"		367056	367170
+SPD_0365	tig	trigger factor		367473	368757
+SPD_0366	SPD_0366	"helicase, RecD/TraA family protein"		368804	371171
+SPD_0367	lepB	signal peptidase I		371404	372019
+SPD_0368	rnhC	ribonuclease HIII		372030	372903
+SPD_0369	SPD_0369	hypothetical protein		372980	373292
+SPD_0370	SPD_0370	CvpA family protein		373288	373837
+SPD_0371	SPD_0371	MutS2 family protein		373940	376277
+SPD_0372	SPD_0372	sodium:alanine symporter family protein		376618	377941
+SPD_0373	SPD_0373	hypothetical protein		378158	378707
+SPD_0374	SPD_0374	"exfoliative toxin, putative"		378816	379716
+SPD_0375	serS	seryl-tRNA synthetase		379740	381015
+SPD_0376	SPD_0376	hypothetical protein		381227	381599
+SPD_0377	SPD_0377	aspartate kinase		381601	382966
+SPD_0378	SPD_0378	enoyl-CoA hydratase/isomerase family protein		383290	384076
+SPD_0379	SPD_0379	"transcriptional regulator, MarR family protein"		384169	384604
+SPD_0380	fabH	3-oxoacyl-(acyl-carrier-protein) synthase III		384603	385578
+SPD_0381	acpP	acyl carrier protein		385637	385862
+SPD_0382	fabK	trans-2-enoyl-ACP reductase II		385980	386955
+SPD_0383	fabD	malonyl CoA-acyl carrier protein transacylase		386947	387868
+SPD_0384	fabG	3-oxoacyl-(acyl-carrier-protein) reductase		387901	388633
+SPD_0385	fabF	3-oxoacyl-[acyl-carrier-protein] synthase II		388654	389890
+SPD_0386	accB	"acetyl-CoA carboxylase, biotin carboxyl carrier protein"		389892	390378
+SPD_0387	fabZ	beta-hydroxyacyl-(acyl-carrier-protein) dehydratase FabZ		390374	390797
+SPD_0388	accC	"acetyl-CoA carboxylase, biotin carboxylase"		390808	392176
+SPD_0389	accD	"acetyl-CoA carboxylase, carboxyl transferase, beta subunit"		392212	393079
+SPD_0390	accA	"acetyl-CoA carboxylase, carboxyl transferase, alpha subunit"		393075	393843
+SPD_0391	SPD_0391	hypothetical protein		394001	394187
+SPD_0392	SPD_0392	hypothetical protein		394443	394656
+SPD_0393	nusB	transcription antitermination factor NusB		394953	395376
+SPD_0394	SPD_0394	hypothetical protein		395368	395758
+SPD_0395	efp	translation elongation factor P		395779	396340
+SPD_0396	gatB	glu-trnagln amidotransferase subunit b		396468	397911
+SPD_0397	gatA	glutamyl-tRNA(Gln) amidotransferase subunit A		397910	399377
+SPD_0398	gatC	"glutamyl-tRNA(Gln) amidotransferase, C subunit"		399376	399679
+SPD_0399	prfC	peptide chain release factor 3		399891	401436
+SPD_0400	SPD_0400	"Glycosyl transferase family protein 8, putative"		401704	402190
+SPD_0401	rpmB	ribosomal protein L28		402305	402494
+SPD_0402	SPD_0402	hypothetical protein		402650	403016
+SPD_0403	SPD_0403	hypothetical protein		403018	404686
+SPD_0404	ilvB	"acetolactate synthase, large subunit, biosynthetic type"		404886	406587
+SPD_0405	ilvN	"acetolactate synthase, small subunit"		406579	407056
+SPD_0406	ilvC	ketol-acid reductoisomerase		407121	408144
+SPD_0407	SPD_0407	hypothetical protein		408220	408487
+SPD_0408	SPD_0408	hypothetical protein		408724	409081
+SPD_0409	ilvA	threonine dehydratase		409130	410381
+SPD_0410	SPD_0410	hypothetical protein		411115	411331
+SPD_0411	SPD_0411	"amino acid ABC transporter, ATP-binding protein"		411439	412180
+SPD_0412	SPD_0412	"amino acid ABC transporter, amino acid-binding protein/permease protein"		412179	413745
+SPD_0414	SPD_0414	"membrane protein, putative"		413882	415772
+SPD_0413	SPD_0413	hypothetical protein		415768	415930
+SPD_0417	bacA	"bacitracin resistance protein/undecaprenol kinase, putative"		417195	418041
+SPD_0418	SPD_0418	hypothetical protein		418033	418162
+SPD_0419	dinP	DNA-damage inducible protein P		418187	419249
+SPD_0420	pflB	formate acetyltransferase		419643	421968
+SPD_0421	SPD_0421	hypothetical protein		422334	422682
+SPD_0422	SPD_0422	hypothetical protein		422879	423164
+SPD_0423	SPD_0423	ROK family protein		424598	425822
+SPD_0424	SPD_0424	"PTS system, cellobiose-specific IIC component"		425989	427312
+SPD_0425	SPD_0425	hypothetical protein		427313	429200
+SPD_0426	lacF-1	"PTS system, lactose-specific IIA component"		429367	429712
+SPD_0427	lacG-1	6-phospho-beta-galactosidase		429721	431134
+SPD_0428	lacE-1	"PTS system, lactose-specific IIBC components"		431202	432882
+SPD_0429	SPD_0429	"potassium uptake protein, Trk family protein"		433009	434449
+SPD_0430	SPD_0430	"potassium uptake protein, Trk family protein"		434452	435802
+SPD_0431	SPD_0431	hypothetical protein		435990	436839
+SPD_0432	SPD_0432	"membrane protein, putative"		436853	437402
+SPD_0433	SPD_0433	hypothetical protein		437408	437621
+SPD_0434	SPD_0434	"ABC transporter, ATP-binding protein"		437722	439405
+SPD_0435	SPD_0435	"membrane protein, putative"		439389	440220
+SPD_0436	SPD_0436	TrmH family RNA methyltransferase		440412	440916
+SPD_0437	SPD_0437	"membrane protein, putative"		441374	441938
+SPD_0438	SPD_0438	PAP2 family protein		441927	442578
+SPD_0439	SPD_0439	hypothetical protein		442605	442995
+SPD_0440	SPD_0440	hypothetical protein		442999	443449
+SPD_0441	SPD_0441	"DNA-directed RNA polymerase, delta subunit, putative"		443576	444164
+SPD_0442	pyrG	CTP synthase		444553	446161
+SPD_0443	SPD_0443	Na/Pi-cotransporter II-related protein		446719	448351
+SPD_0444	SPD_0444	"endo-beta-N-acetylglucosaminidase, putative"		448715	453623
+SPD_0445	pgk	phosphoglycerate kinase		453712	454909
+SPD_0446	SPD_0446	"membrane protein, putative"		455044	455572
+SPD_0447	SPD_0447	"transcriptional regulator, MerR family protein"		455648	456005
+SPD_0448	glnA	"glutamine synthetase, type I"		456041	457388
+SPD_0449	SPD_0449	hypothetical protein		457860	457998
+SPD_0451	SPD_0451	"type I restriction-modification system, S subunit, putative"		458167	459448
+SPD_0450	SPD_0450	"type I restriction-modification system, S subunit, putative"		459401	460001
+SPD_0452	SPD_0452	"integrase/recombinase, phage integrase family protein"		460011	460809
+SPD_0453	hsdS	"type I restriction-modification system, S subunit"		460865	462434
+SPD_0454	hsdM	"type I restriction-modification system, M subunit"		462433	463897
+SPD_0455	hsdR	"type I restriction-modification system, R subunit"		463909	466243
+SPD_0456	SPD_0456	hypothetical protein		466615	466816
+SPD_0457	SPD_0457	hypothetical protein		466850	467360
+SPD_0458	hrcA	heat-inducible transcription repressor HrcA		467523	468558
+SPD_0459	grpE	heat shock protein GrpE		468584	469109
+SPD_0460	dnaK	chaperone protein DnaK		469588	471412
+SPD_0461	dnaJ	chaperone protein DnaJ		472171	473290
+SPD_0462	SPD_0462	hypothetical protein		473624	473912
+SPD_0463	SPD_0463	"Hit-like protein involved in cell-cycle regulation, putative"		473921	474332
+SPD_0464	SPD_0464	"ABC transporter, ATP-binding protein"		474399	475131
+SPD_0465	SPD_0465	"ABC transporter, permease protein, putative"		475127	476177
+SPD_0466	SPD_0466	hypothetical protein		476344	476674
+SPD_0467	blpS	BlpS protein		476949	477288
+SPD_0468	blpR	response regulator BlpR		477292	478030
+SPD_0469	blpH	"histidine kinase BlpH, putative"		478043	479384
+SPD_0470	blpC	peptide pheromone BlpC		479425	479581
+SPD_0473	blpY	immunity protein BlpY		483721	484411
+SPD_0474	SPD_0474	hypothetical protein		484452	484686
+SPD_0475	SPD_0475	CAAX amino terminal protease family protein		484836	485448
+SPD_0476	SPD_0476	phosphotransferase enzyme family protein		485608	486403
+SPD_0477	trmB	tRNA (guanine-N(7)-)-methyltransferase		486399	487035
+SPD_0478	SPD_0478	hypothetical protein		487160	487640
+SPD_0479	nusA	transcription termination factor NusA		487683	488820
+SPD_0480	SPD_0480	hypothetical protein		488841	489135
+SPD_0481	SPD_0481	ribosomal protein L7A family protein		489127	489427
+SPD_0482	infB	initiation factor IF-2		489443	492236
+SPD_0483	rbfA	ribosome-binding factor A		492486	492837
+SPD_0484	SPD_0484	hypothetical protein		493079	493895
+SPD_0485	SPD_0485	hypothetical protein		493896	494079
+SPD_0486	SPD_0486	hypothetical protein		494075	494216
+SPD_0487	SPD_0487	hypothetical protein		494516	494762
+SPD_0488	SPD_0488	hypothetical protein		494761	496096
+SPD_0489	SPD_0489	hypothetical protein		496105	496360
+SPD_0490	SPD_0490	hypothetical protein		496455	496851
+SPD_0491	SPD_0491	hypothetical protein		497262	497712
+SPD_0492	SPD_0492	"acetyltransferase, GNAT family protein"		497698	498256
+SPD_0493	SPD_0493	hypothetical protein		498257	499220
+SPD_0494	valS	valyl-tRNA synthetase		499231	501883
+SPD_0495	SPD_0495	hypothetical protein		501952	502708
+SPD_0496	SPD_0496	cell filamentation protein Fic-related protein		502990	503794
+SPD_0499	SPD_0499	hypothetical protein		504947	505160
+SPD_0501	licT	transcription antiterminator Lict		508402	509242
+SPD_0502	SPD_0502	"PTS system, beta-glucosides-specific IIABC components"		509259	511098
+SPD_0503	bglA-2	6-phospho-beta-glucosidase		511110	512526
+SPD_0504	pheS	"phenylalanyl-tRNA synthetase, alpha subunit"		513117	514164
+SPD_0505	SPD_0505	"acetyltransferase, GNAT family protein"		514163	514673
+SPD_0506	pheT	"phenylalanyl-tRNA synthetase, beta subunit"		514749	517152
+SPD_0507	SPD_0507	hypothetical protein		517219	518221
+SPD_0509	SPD_0509	hypothetical protein		518949	519216
+SPD_0510	metE	5-methyltetrahydropteroyltriglutamate-- homocysteine S-methyltransferase		519476	521726
+SPD_0511	metF	"5,10-methylenetetrahydrofolate reductase"		521789	522656
+SPD_0512	pnp	polyribonucleotide nucleotidyltransferase		523226	525554
+SPD_0513	cysE	serine O-acetyltransferase		525569	526187
+SPD_0514	SPD_0514	"acetyltransferase, GNAT family protein"		526198	527083
+SPD_0515	cysS	cysteinyl-tRNA synthetase		527164	528508
+SPD_0516	SPD_0516	hypothetical protein		528500	528887
+SPD_0517	SPD_0517	hypothetical protein		528890	529775
+SPD_0518	SPD_0518	hypothetical protein		529911	530367
+SPD_0519	SPD_0519	hypothetical protein		530363	530510
+SPD_0521	vex1	"ABC transporter, transmembrane protein Vexp1"		531180	532458
+SPD_0522	vex2	"ABC transporter, ATP-binding protein Vexp2"		532470	533118
+SPD_0523	vex3	"ABC transporter, transmembrane protein Vexp3"		533169	534549
+SPD_0524	vncR	DNA-binding response regulator VncR		534860	535517
+SPD_0525	vncS	sensor histidine kinase VncS		535513	536842
+SPD_0526	fba	"fructose-1,6-bisphosphate aldolase, class II"		536982	537864
+SPD_0527	SPD_0527	"oxidoreductase, putative"		538184	539375
+SPD_0528	SPD_0528	"amino acid ABC transporter, permease protein"		539632	540292
+SPD_0529	SPD_0529	"amino acid ABC transporter, permease protein"		540301	540979
+SPD_0530	SPD_0530	"amino acid ABC transporter, amino acid-binding protein"		540991	541786
+SPD_0532	recJ	single-stranded-DNA-specific exonuclease RecJ		542831	545054
+SPD_0533	SPD_0533	metallo-beta-lactamase superfamily protein		545228	546890
+SPD_0534	estA	tributyrin esterase		546958	547738
+SPD_0535	murM/fibA	serine/alanine-adding enzyme MurM		547849	549070
+SPD_0536	fibB	beta-lactam resistance factor		549074	550307
+SPD_0537	SPD_0537	matrixin family protein		550422	551082
+SPD_0538	uvrC	"excinuclease ABC, C subunit"		551121	552966
+SPD_0539	SPD_0539	Ser/Thr protein phosphatase family protein		552955	553789
+SPD_0540	SPD_0540	"amino acid ABC transporter, amino acid-binding protein, putative"		553970	554771
+SPD_0541	SPD_0541	nitroreductase family protein		554941	555547
+SPD_0542	pepV	dipeptidase PepV		555559	556960
+SPD_0543	SPD_0543	hypothetical protein		557013	557592
+SPD_0544	SPD_0544	hypothetical protein		557755	557908
+SPD_0545	SPD_0545	hypothetical protein		557908	558043
+SPD_0546	brnQ	branched-chain amino acid transport system II carrier protein		558213	559539
+SPD_0547	SPD_0547	hypothetical protein		559742	560780
+SPD_0548	SPD_0548	HIT family protein		560748	561252
+SPD_0549	SPD_0549	"lipoprotein, putative"		561254	561971
+SPD_0550	rplK	ribosomal protein L11		562279	562705
+SPD_0551	rplA	ribosomal protein L1		562912	563602
+SPD_0552	SPD_0552	hypothetical protein		564193	564781
+SPD_0553	SPD_0553	hypothetical protein		564746	565076
+SPD_0554	SPD_0554	"ABC transporter, ATP-binding protein"		566119	567112
+SPD_0555	SPD_0555	"membrane protein, putative"		567113	567932
+SPD_0556	SPD_0556	"membrane protein, putative"		567933	568719
+SPD_0558	prtA	cell wall-associated serine protease PrtA		569948	576383
+SPD_0559	SPD_0559	"PTS system IIA component, putative"		577007	577484
+SPD_0560	SPD_0560	"PTS system, IIB component, putative"		577521	577827
+SPD_0561	SPD_0561	"PTS system, IIC component, putative"		577874	579350
+SPD_0562	bgaA	"beta-galactosidase precursor, putative"		579654	586341
+SPD_0564	SPD_0564	hypothetical protein		587654	588008
+SPD_0565	SPD_0565	hypothetical protein		588105	588558
+SPD_0566	SPD_0566	hypothetical protein		588615	589062
+SPD_0567	SPD_0567	"rRNA methylase, putative"		589039	589603
+SPD_0568	SPD_0568	hypothetical protein		589595	589850
+SPD_0569	SPD_0569	sodium/hydrogen exchanger family protein		589861	591916
+SPD_0570	SPD_0570	"ribonuclease BN, putative"		592094	592955
+SPD_0571	ccdA-1	cytochrome c-type biogenesis protein CcdA		593165	593876
+SPD_0572	SPD_0572	thioredoxin family protein		593895	594462
+SPD_0573	msrAB2	peptide methionine sulfoxide reductase msrA/msrB 2		594649	595585
+SPD_0574	SPD_0574	DNA-binding response regulator		595852	596590
+SPD_0575	SPD_0575	"sensor histidine kinase, putative"		596586	598278
+SPD_0576	SPD_0576	conserved hypothetical protein TIGR01440		598393	598957
+SPD_0577	zmpB	zinc metalloprotease ZmpB		598978	604609
+SPD_0578	pabB	"para-aminobenzoate synthase, component I"		604678	606400
+SPD_0579	SPD_0579	"pneumococcal surface protein, putative"		606557	607547
+SPD_0580	gki	glucokinase		607682	608642
+SPD_0581	thyA	thymidylate synthase		608738	609578
+SPD_0582	SPD_0582	hypothetical protein		609625	609796
+SPD_0583	miaA	tRNA delta(2)-isopentenylpyrophosphate transferase		609916	610801
+SPD_0584	hflX	GTP-binding protein HflX		610793	612032
+SPD_0585	SPD_0585	hypothetical protein		612024	612648
+SPD_0586	rnz	ribonuclease Z		612662	613592
+SPD_0587	SPD_0587	"oxidoreductase, short chain dehydrogenase/reductase family protein"		613612	614368
+SPD_0588	SPD_0588	"transcriptional regulator, putative"		614421	615390
+SPD_0589	SPD_0589	hypothetical protein		615393	615663
+SPD_0590	SPD_0590	rhodanese-like domain		615662	616043
+SPD_0591	SPD_0591	hypothetical protein		616161	616359
+SPD_0592	rsuA-2	ribosomal small subunit pseudouridine synthase A		616398	617124
+SPD_0593	SPD_0593	elongation factor Tu family protein		617285	619127
+SPD_0594	SPD_0594	hypothetical protein		619146	619401
+SPD_0595	SPD_0595	hypothetical protein		619716	620064
+SPD_0596	SPD_0596	"membrane protein, putative"		620134	622156
+SPD_0597	SPD_0597	"ABC transporter, ATP-binding protein"		622157	622799
+SPD_0598	murD	UDP-N-acetylmuramoylalanine--D-glutamate ligase		622902	624255
+SPD_0599	murG	UDP-N-acetylglucosamine--N-acetylmuramyl- (pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase		624258	625317
+SPD_0600	divIB	cell division protein DivIB		625326	626517
+SPD_0601	SPD_0601	hypothetical protein		626647	626773
+SPD_0602	SPD_0602	hypothetical protein		626784	626916
+SPD_0603	SPD_0603	"peptidase, M50 family protein"		627307	628105
+SPD_0604	SPD_0604	HesA/MoeB/ThiF family protein		628447	629461
+SPD_0606	SPD_0606	"membrane protein, putative"		630496	631210
+SPD_0608	pyrF	orotidine 5'-phosphate decarboxylase		631944	632646
+SPD_0609	pyrE	orotate phosphoribosyltransferase		632679	633312
+SPD_0610	SPD_0610	hypothetical protein		633491	633896
+SPD_0611	SPD_0611	"membrane protein, putative"		633991	634756
+SPD_0612	SPD_0612	"lipoprotein, putative"		634755	635508
+SPD_0613	SPD_0613	"membrane protein, putative"		635511	636216
+SPD_0614	SPD_0614	"ABC transporter, ATP-binding protein"		636212	636860
+SPD_0616	SPD_0616	"amino acid ABC transporter, ATP-binding protein"		637816	638575
+SPD_0617	SPD_0617	"amino acid ABC transporter, permease protein"		638575	639253
+SPD_0618	SPD_0618	"amino acid ABC transporter, permease protein"		639212	639893
+SPD_0619	SPD_0619	hypothetical protein		640107	640254
+SPD_0620	lysS	lysyl-tRNA synthetase		640381	641872
+SPD_0621	lctO	lactate oxidase		642496	643633
+SPD_0622	SPD_0622	"transcriptional regulator, TENA/THI-4 family protein, putative"		644187	644856
+SPD_0623	thiM	hydroxyethylthiazole kinase		645144	645927
+SPD_0624	thiE-1	thiamine-phosphate pyrophosphorylase		645928	646558
+SPD_0625	SPD_0625	"membrane protein, putative"		647115	647676
+SPD_0626	SPD_0626	"ABC transporter, ATP-binding protein"		647676	649062
+SPD_0627	SPD_0627	"membrane protein, putative"		649063	649714
+SPD_0628	tenA	"transcriptional activator TenA, TENA/THI-4 family protein"		649724	650417
+SPD_0629	thiW	thiW protein		650421	650946
+SPD_0630	SPD_0630	"hydroxyethylthiazole kinase, putative"		650945	651749
+SPD_0631	thiE-2	thiamine-phosphate pyrophosphorylase		651741	652374
+SPD_0632	thiD	phosphomethylpyrimidine kinase		652582	653374
+SPD_0633	SPD_0633	"transcriptional regulator, putative"		653739	654135
+SPD_0634	SPD_0634	hypothetical protein		654145	654517
+SPD_0635	SPD_0635	"cation-transporting ATPase, E1-E2 family protein"		654526	656770
+SPD_0636	spxB	pyruvate oxidase		656976	658752
+SPD_0637	SPD_0637	glyoxalase family protein		658862	659210
+SPD_0638	SPD_0638	transposase family protein		659326	659980
+SPD_0639	SPD_0639	hypothetical protein		659867	660215
+SPD_0641	manA	"mannose-6-phosphate isomerase, class I"		661064	662009
+SPD_0642	SPD_0642	sodium-dependent transporter		662111	663497
+SPD_0644	SPD_0644	MutT/nudix family protein		664353	664809
+SPD_0645	SPD_0645	hypothetical protein		664828	666004
+SPD_0646	SPD_0646	hypothetical protein		666062	666908
+SPD_0647	SPD_0647	"transcriptional regulator, TetR family protein"		667032	667590
+SPD_0648	SPD_0648	cytidine and deoxycytidylate deaminase family protein		667608	668076
+SPD_0649	upp	uracil phosphoribosyltransferase		668143	668794
+SPD_0650	clpP	"ATP-dependent Clp protease, proteolytic subunit ClpP"		668967	669558
+SPD_0651	SPD_0651	hypothetical protein		669636	669885
+SPD_0652	livJ	"branched-chain amino acid ABC transporter, amino acid-binding protein"		669986	671147
+SPD_0653	livH	"branched-chain amino acid ABC transporter, permease protein"		671414	672284
+SPD_0654	livM	"branched-chain amino acid ABC transporter, permease protein"		672287	673244
+SPD_0655	livG	"branched-chain amino acid ABC transporter, ATP-binding protein"		673243	674008
+SPD_0656	livF	"branched-chain amino acid ABC transporter, ATP-binding protein"		674007	674718
+SPD_0657	SPD_0657	"acetoin utilization protein AcuB, putative"		675131	675788
+SPD_0658	prfB	peptide chain release factor 2		676001	676991
+SPD_0659	ftsE	cell division ATP-binding protein FtsE		677008	677701
+SPD_0660	ftsX	"cell division ABC transporter, permease protein FtsX"		677693	678620
+SPD_0661	exp5	"PTS system, IIABC components"		678905	681086
+SPD_0662	SPD_0662	endonuclease/exonuclease/phosphatase family protein		681137	681953
+SPD_0663	SPD_0663	"ATP-dependent RNA helicase, DEAD/DEAH box family protein"		682092	683436
+SPD_0664	metK	S-adenosylmethionine synthetase		683650	684841
+SPD_0665	pyrDa	dihydroorotate dehydrogenase A		685393	686329
+SPD_0666	holA	"DNA polymerase III, delta subunit"		686362	687400
+SPD_0667	sodA	"superoxide dismutase, manganese-dependent"		687572	688178
+SPD_0668	SPD_0668	hypothetical protein		688334	688865
+SPD_0669	SPD_0669	"radical SAM enzyme, Cfr family protein"		688885	689971
+SPD_0670	SPD_0670	"conserved hypothetical, predicted membrane protein"		690008	690440
+SPD_0671	SPD_0671	"ABC transporter, ATP-binding protein"		690441	691983
+SPD_0672	SPD_0672	"peptidyl-prolyl cis-trans isomerase, cyclophilin-type"		692039	692843
+SPD_0673	SPD_0673	hypothetical protein		692926	693148
+SPD_0674	rpsP	ribosomal protein S16		694013	694286
+SPD_0675	SPD_0675	hypothetical protein		694305	694545
+SPD_0676	SPD_0676	hypothetical protein		695121	695550
+SPD_0677	SPD_0677	hypothetical protein		695550	695910
+SPD_0678	rimM	16S rRNA processing protein RimM		695940	696459
+SPD_0679	trmD	tRNA (guanine-N1)-methyltransferase		696448	697168
+SPD_0680	SPD_0680	hypothetical protein		697179	697518
+SPD_0681	SPD_0681	hypothetical protein		697548	697869
+SPD_0683	SPD_0683	hypothetical protein		697966	698182
+SPD_0682	SPD_0682	hypothetical protein		698178	698325
+SPD_0684	SPD_0684	"biotin synthase (BioY family protein), putative"		698385	698922
+SPD_0685	gor	glutathione-disulfide reductase		699118	700465
+SPD_0686	SPD_0686	"efflux transporter, RND family protein, MFP subunit"		700729	701929
+SPD_0687	SPD_0687	ABC transporter ATP-binding protein		701912	702614
+SPD_0688	SPD_0688	"efflux ABC transporter, permease protein"		702615	703875
+SPD_0689	metG	methionyl-tRNA synthetase		703998	705996
+SPD_0690	SPD_0690	hypothetical protein		706045	706237
+SPD_0691	SPD_0691	"transcriptional regulator, PadR family protein"		706326	706647
+SPD_0692	SPD_0692	"membrane protein, putative"		706650	707526
+SPD_0693	SPD_0693	"oxidoreductase, aldo/keto reductase family protein"		707540	708467
+SPD_0694	SPD_0694	hypothetical protein		708545	708803
+SPD_0695	SPD_0695	"oxidoreductase, short chain dehydrogenase/reductase family protein"		708795	709494
+SPD_0696	SPD_0696	MutT/nudix family protein		709504	709984
+SPD_0697	SPD_0697	"acetyltransferase, GNAT family protein"		709991	710720
+SPD_0698	SPD_0698	hypothetical protein		710761	711631
+SPD_0699	SPD_0699	hypothetical protein		711605	712046
+SPD_0700	pepN	aminopeptidase N		712168	714715
+SPD_0701	ciaR	DNA-binding response regulator CiaR		714757	715498
+SPD_0702	ciaH	sensor histidine kinase CiaH		715487	716822
+SPD_0703	SPD_0703	hypothetical protein		716855	717143
+SPD_0704	SPD_0704	hypothetical protein		717141	718212
+SPD_0705	SPD_0705	"DnaQ family exonuclease/DinG family helicase, putative"		718411	720862
+SPD_0706	SPD_0706	"rod shape-determining protein RodA, putative"		720898	722122
+SPD_0707	SPD_0707	"4-methyl-5(b-hydroxyethyl)-thiazole monophosphate biosynthesis protein, putative"		722132	722687
+SPD_0708	SPD_0708	"hydrolase, haloacid dehalogenase-like family protein"		722771	723335
+SPD_0709	gyrB	"DNA gyrase, B subunit"		723349	725296
+SPD_0710	ezrA	septation ring formation regulator EzrA		725377	727105
+SPD_0711	SPD_0711	hypothetical protein		727898	728252
+SPD_0712	SPD_0712	transposase family protein		728283	728793
+SPD_0714	SPD_0714	hypothetical protein		729426	729726
+SPD_0715	SPD_0715	MutT/nudix family protein		729890	730313
+SPD_0716	SPD_0716	"IS630-Spn1, transposase Orf1"		730405	730753
+SPD_0717	clpE	ATP-dependent Clp protease ATP-binding subunit ClpE		731477	733736
+SPD_0718	SPD_0718	hypothetical protein		733964	734195
+SPD_0719	SPD_0719	"amino acid ABC transporter, permease protein"		734384	735068
+SPD_0720	SPD_0720	"amino acid ABC transporter, ATP-binding protein"		735067	735802
+SPD_0721	folD	methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase		735934	736813
+SPD_0722	SPD_0722	YjeF-like protein		736954	737827
+SPD_0723	rpiA	ribose 5-phosphate isomerase A		738108	738792
+SPD_0724	deoB	phosphopentomutase		738805	740017
+SPD_0726	SPD_0726	"purine nucleoside phosphorylase, family protein 2"		740576	741386
+SPD_0727	SPD_0727	hypothetical protein		741861	742593
+SPD_0728	SPD_0728	hypothetical protein		742638	742842
+SPD_0729	SPD_0729	hemolysin-related protein		742866	743379
+SPD_0730	deoD	purine nucleoside phosphorylase		744036	744747
+SPD_0731	SPD_0731	"DNA topology modulation protein FlaR, putative"		744769	745294
+SPD_0732	rpsT	ribosomal protein S20		745346	745583
+SPD_0733	coaA	pantothenate kinase		745650	746571
+SPD_0734	SPD_0734	"membrane protein, putative"		746768	747209
+SPD_0735	SPD_0735	"methyltransferase small domain, putative"		747415	748006
+SPD_0736	pdp	pyrimidine-nucleoside phosphorylase		748002	749280
+SPD_0737	deoC	deoxyribose-phosphate aldolase		749297	749960
+SPD_0738	cdd-1	cytidine deaminase		749946	750336
+SPD_0739	SPD_0739	putative membrane lipoprotein TmpC precursor		750425	751478
+SPD_0740	SPD_0740	"sugar ABC transporter, ATP-binding protein"		751621	753157
+SPD_0741	SPD_0741	"sugar ABC transporter, permease protein, putative"		753149	754208
+SPD_0742	SPD_0742	"sugar ABC transporter, permease protein, putative"		754210	755167
+SPD_0745	SPD_0745	"membrane protein, putative"		756641	757283
+SPD_0746	parE	"DNA topoisomerase IV, B subunit"		757418	759362
+SPD_0747	SPD_0747	hypothetical protein		759482	759608
+SPD_0748	parC	"DNA topoisomerase IV, A subunit"		759772	762253
+SPD_0749	ilvE	branched-chain amino acid aminotransferase		762382	763405
+SPD_0750	SPD_0750	hypothetical protein		763460	764165
+SPD_0751	SPD_0751	"membrane protein, putative"		764229	764919
+SPD_0752	SPD_0752	"membrane protein, putative"		764915	765839
+SPD_0753	pcp	pyrrolidone-carboxylate peptidase		765853	766498
+SPD_0754	SPD_0754	hypothetical protein		766665	766896
+SPD_0757	rpsA	ribosomal protein S1		767268	768471
+SPD_0759	SPD_0759	hypothetical protein		770126	770624
+SPD_0760	dnaX	"DNA polymerase III, gamma and tau subunits"		770623	772279
+SPD_0761	SPD_0761	hypothetical protein		772306	772501
+SPD_0762	sufC	FeS assembly ATPase SufC		772650	773421
+SPD_0763	sufD	FeS assembly protein SufD		773448	774711
+SPD_0764	sufS	"cysteine desulfurase, SufS subfamily protein"		774721	775948
+SPD_0765	SPD_0765	"SUF system FeS assembly protein, NifU family protein"		775934	776375
+SPD_0766	sufB	FeS assembly protein SufB		776428	777841
+SPD_0767	dacC	penicillin-binding protein 3/D-alanyl-D-alanine carboxypeptidase		778039	779281
+SPD_0768	SPD_0768	"membrane protein, putative"		779383	780493
+SPD_0771	lacR1	lactose phosphotransferase system repressor		781917	782658
+SPD_0772	SPD_0772	"1-phosphofructokinase, putative"		782654	783566
+SPD_0773	SPD_0773	"PTS system, fructose specific IIABC components"		783562	785515
+SPD_0774	SPD_0774	SpoE family protein		785600	787904
+SPD_0775	SPD_0775	hypothetical protein		787948	788482
+SPD_0776	SPD_0776	"aminotransferase, class V"		788514	789657
+SPD_0777	thiI	thiamine biosynthesis/tRNA modification protein ThiI		789665	790880
+SPD_0778	SPD_0778	hypothetical protein		791014	791839
+SPD_0779	SPD_0779	hypothetical protein		791860	792196
+SPD_0780	SPD_0780	hypothetical protein		792195	792600
+SPD_0781	SPD_0781	hypothetical protein		792612	793779
+SPD_0782	SPD_0782	"type I restriction-modification system, M subunit, putative"		794286	795780
+SPD_0783	SPD_0783	"type I restriction-modification system, S subunit, putative"		795792	796404
+SPD_0784	SPD_0784	"type I restriction-modification system, R subunit, putative"		796482	799833
+SPD_0785	SPD_0785	hypothetical protein		800103	800304
+SPD_0786	SPD_0786	"transcriptional regulator of arginine metabolism expression, putative"		800418	800889
+SPD_0787	pepX	Xaa-Pro dipeptidyl-peptidase PepX		800905	803179
+SPD_0788	dnaE	"DNA polymerase III, alpha subunit"		803524	806626
+SPD_0789	pfkA	6-phosphofructokinase		806708	807716
+SPD_0790	pyk	pyruvate kinase		807774	809280
+SPD_0791	SPD_0791	hypothetical protein		810396	810651
+SPD_0792	SPD_0792	"lipoprotein, putative"		811086	811959
+SPD_0793	SPD_0793	hypothetical protein		811971	812136
+SPD_0795	SPD_0795	hypothetical protein		812591	812903
+SPD_0796	SPD_0796	hypothetical protein		812906	813623
+SPD_0797	SPD_0797	hypothetical protein		813752	814568
+SPD_0798	SPD_0798	"membrnae protein, putative"		814564	815470
+SPD_0799	SPD_0799	hypothetical protein		815470	815602
+SPD_0800	SPD_0800	"capsular polysaccharide biosynthesis protein, putative"		815811	816171
+SPD_0801	SPD_0801	hypothetical protein		816133	817180
+SPD_0802	SPD_0802	S1 RNA binding domain		817281	819411
+SPD_0803	SPD_0803	hypothetical protein		819905	820178
+SPD_0804	SPD_0804	"ABC transporter, ATP-binding protein"		821150	821909
+SPD_0805	SPD_0805	"transporter, permease protein, putative"		821910	823899
+SPD_0806	SPD_0806	hypothetical protein		823941	824532
+SPD_0807	SPD_0807	"IS1239, transposase, putative"		824611	825487
+SPD_0808	SPD_0808	hypothetical protein		825719	825833
+SPD_0809	cad	lysine decarboxylase		826193	827669
+SPD_0811	speE	spermidine synthase		828605	829466
+SPD_0812	lys1	saccharopine dehydrogenase		829462	830722
+SPD_0813	nspC	carboxynorspermidine decarboxylase		830721	831849
+SPD_0814	SPD_0814	agmatine deiminase		831845	832931
+SPD_0815	SPD_0815	"hydrolase, carbon-nitrogen family protein"		832940	833816
+SPD_0816	SPD_0816	Cof family protein		833996	834806
+SPD_0817	SPD_0817	CAAX amino terminal protease family protein		835352	836024
+SPD_0818	SPD_0818	"transcriptional regulator, LysR family protein"		836265	837174
+SPD_0819	lspA	signal peptidase II		837170	837632
+SPD_0820	rluD	ribosomal large subunit pseudouridine synthase D		837621	838509
+SPD_0821	cbpE	choline binding protein E		838511	840395
+SPD_0822	proB	glutamate 5-kinase		840495	841605
+SPD_0823	proA	gamma-glutamyl phosphate reductase		841614	842877
+SPD_0824	proC	pyrroline-5-carboxylate reductase		842880	843678
+SPD_0825	tmk	thymidylate kinase		843793	844432
+SPD_0826	holB	"DNA polymerase III, delta prime subunit"		844428	845319
+SPD_0827	SPD_0827	hypothetical protein		845358	845676
+SPD_0828	SPD_0828	conserved hypothetical protein TIGR00096		845678	846548
+SPD_0829	SPD_0829	hypothetical protein		846774	847293
+SPD_0831	SPD_0831	hypothetical protein		847401	848049
+SPD_0830	SPD_0830	"IS1381, transposase OrfB"		848037	848427
+SPD_0832	SPD_0832	"IS1381, transposase OrfA"		848452	848842
+SPD_0833	gid	tRNA uridine 5-carboxymethylaminomethyl modification enzyme gid		849335	850670
+SPD_0834	pyrH	uridylate kinase		850753	851491
+SPD_0835	frr	ribosome recycling factor		851499	852057
+SPD_0836	SPD_0836	hypothetical protein		852077	852971
+SPD_0837	SPD_0837	hypothetical protein		852979	853195
+SPD_0838	SPD_0838	PhoH family protein		853280	854249
+SPD_0839	SPD_0839	"acetyltransferase, GNAT family protein"		854441	854942
+SPD_0840	SPD_0840	hypothetical protein		854944	855172
+SPD_0842	SPD_0842	"acetyltransferase, GNAT family protein"		856859	857429
+SPD_0843	celA	competence protein CelA		857496	858147
+SPD_0844	celB	competence protein CelB		858130	860371
+SPD_0845	SPD_0845	"ABC transporter, ATP-binding protein"		860769	861246
+SPD_0846	SPD_0846	"membrane protein, putative"		861360	862542
+SPD_0847	infC	translation initiation factor IF-3		862821	863379
+SPD_0848	rpmI	ribosomal protein L35		863411	863612
+SPD_0849	rplT	ribosomal protein L20		863663	864023
+SPD_0850	gloA	lactoylglutathione lyase		864080	864461
+SPD_0851	pyrK	dihydroorotate dehydrogenase electron transfer subunit		864710	865511
+SPD_0852	pyrDb	"dihydroorotate dehydrogenase, catalytic subunit"		865521	866460
+SPD_0853	lytB	"endo-beta-N-acetylglucosaminidase precursor, putative"		866558	868667
+SPD_0854	pavA	adherence and virulence protein A		868727	870383
+SPD_0855	SPD_0855	conserved hypothetical protein TIGR00043		870487	870985
+SPD_0856	dgkA	diacylglycerol kinase		870965	871361
+SPD_0857	era	GTP-binding protein Era		871377	872277
+SPD_0858	mutM	formamidopyrimidine-DNA glycosylase		872325	873150
+SPD_0859	coaE	dephospho-CoA kinase		873149	873755
+SPD_0860	pmrA	multi-drug resistance efflux pump		873741	874941
+SPD_0861	secG	"preprotein translocase, SecG subunit"		875129	875363
+SPD_0862	rnr	ribonuclease R		875464	877819
+SPD_0863	smpB	SsrA-binding protein		877781	878249
+SPD_0864	tehB	tellurite resistance protein TehB		878264	879125
+SPD_0865	coiA	competence protein CoiA		879197	880151
+SPD_0866	pepF	oligoendopeptidase F		880169	881972
+SPD_0867	SPD_0867	O-methyltransferase		881973	882687
+SPD_0868	SPD_0868	"protease maturation protein, putative"		882753	883695
+SPD_0869	SPD_0869	hypothetical protein		883912	884155
+SPD_0870	SPD_0870	phosphoglycerate mutase family protein		884914	885535
+SPD_0871	SPD_0871	"regulatory protein, putative"		885534	886017
+SPD_0872	SPD_0872	"membrane protein, putative"		886016	886859
+SPD_0873	SPD_0873	hypothetical protein		886953	887754
+SPD_0874	glmU	UDP-N-acetylglucosamine pyrophosphorylase		887897	889277
+SPD_0875	SPD_0875	"hydrolase, NUDIX family protein"		889286	889832
+SPD_0876	SPD_0876	hypothetical protein		889843	890158
+SPD_0877	mtnN	MTA/SAH nucleosidase		890174	890867
+SPD_0878	SPD_0878	hypothetical protein		890943	891435
+SPD_0879	SPD_0879	exonuclease		891532	892123
+SPD_0880	SPD_0880	glycerophosphoryl diester phosphodiesterase family protein		892131	893895
+SPD_0883	SPD_0883	hypothetical protein		894915	895116
+SPD_0884	SPD_0884	hypothetical protein		895157	895562
+SPD_0885	ccdA-2	cytochrome c-type biogenesis protein CcdA		895792	896500
+SPD_0886	SPD_0886	thioredoxin family protein		896510	897068
+SPD_0887	SPD_0887	amino acid permease family protein		897441	898833
+SPD_0888	lmb	adhesion lipoprotein		898975	899893
+SPD_0889	phtD	pneumococcal histidine triad protein D precursor		899900	902462
+SPD_0890	phtE	pneumococcal histidine triad protein E precursor		902671	905791
+SPD_0893	SPD_0893	hypothetical protein		907590	908220
+SPD_0894	pepT	peptidase T		908262	909483
+SPD_0895	hemH	ferrochelatase		909637	910732
+SPD_0896	mscL	large conductance mechanosensitive channel protein MscL		910773	911151
+SPD_0897	SPD_0897	GtrA family protein		911232	911664
+SPD_0898	SPD_0898	"membrane protein, putative"		911786	912296
+SPD_0900	asd	aspartate-semialdehyde dehydrogenase		912810	913887
+SPD_0901	dapA	dihydrodipicolinate synthase		913942	914878
+SPD_0902	trmE	tRNA modification GTPase TrmE		914924	916298
+SPD_0903	xylH	4-oxalocrotonate tautomerase		916434	916617
+SPD_0904	tdk	thymidine kinase		916739	917339
+SPD_0905	SPD_0905	"acetyltransferase, GNAT family protein"		917328	917808
+SPD_0906	prfA	peptide chain release factor 1		917817	918897
+SPD_0907	hemK	HemK protein		918896	919736
+SPD_0908	SPD_0908	Sua5/YciO/YrdC/YwlC family protein		919719	920322
+SPD_0909	SPD_0909	"acetyltransferase, GNAT family protein"		920323	920755
+SPD_0910	glyA	serine hydroxymethyltransferase		920816	922073
+SPD_0911	SPD_0911	hypothetical protein		922047	923055
+SPD_0912	pvaA	pneumococcal vaccine antigen A		923054	923669
+SPD_0913	SPD_0913	hypothetical protein		923742	924717
+SPD_0914	rumA-1	23S rRNA (uracil-5-)-methyltransferase RumA		924790	926422
+SPD_0915	SPD_0915	"iron-compound ABC transporter, iron compound-binding protein"		927770	928796
+SPD_0916	SPD_0916	"iron-compound ABC transporter, permease protein"		928785	929793
+SPD_0917	SPD_0917	"iron-compound ABC transporter, permease protein"		929792	930800
+SPD_0918	SPD_0918	"iron-compound ABC transporter, ATP-binding protein"		930799	931594
+SPD_0919	SPD_0919	hypothetical protein		932495	932651
+SPD_0920	SPD_0920	hypothetical protein		933334	933496
+SPD_0921	SPD_0921	"site-specific recombinase, resolvase family protein"		933587	935267
+SPD_0922	SPD_0922	hypothetical protein		935489	936101
+SPD_0923	SPD_0923	hypothetical protein		936413	936611
+SPD_0924	SPD_0924	hypothetical protein		936672	937488
+SPD_0925	SPD_0925	"hydrolase, putative"		937487	938342
+SPD_0926	SPD_0926	conserved hypothetical protein TIGR00147		938453	939338
+SPD_0927	nplT	Neopullulanase		939476	941240
+SPD_0928	SPD_0928	hypothetical protein		941325	941643
+SPD_0929	SPD_0929	hypothetical protein		941688	941970
+SPD_0930	SPD_0930	"transcriptional regulator, putative"		942414	942891
+SPD_0931	SPD_0931	hypothetical protein		942890	943652
+SPD_0932	SPD_0932	hypothetical protein		943679	944456
+SPD_0933	SPD_0933	hypothetical protein		944383	944836
+SPD_0934	SPD_0934	Tn5252- family protein		945667	946027
+SPD_0935	SPD_0935	Tn5252-family protein		946036	946366
+SPD_0936	SPD_0936	Tn5252-family relaxase		946388	947006
+SPD_0938	SPD_0938	hypothetical protein		947686	948274
+SPD_0939	SPD_0939	"transcriptional activator, Rgg/GadR/MutR family protein"		948318	949173
+SPD_0940	SPD_0940	"UDP-N-acetyl-D-mannosaminuronic acid dehydrogenase, putative"		949424	950720
+SPD_0941	SPD_0941	hypothetical protein		950721	951330
+SPD_0942	SPD_0942	hypothetical protein		951339	952122
+SPD_0943	SPD_0943	hypothetical protein		952144	954037
+SPD_0944	SPD_0944	hypothetical protein		954065	955172
+SPD_0945	SPD_0945	"AMP-binding enzyme, putative"		955179	956490
+SPD_0946	SPD_0946	hypothetical protein		956491	957715
+SPD_0947	SPD_0947	"membrane protein, putative"		957719	958655
+SPD_0948	SPD_0948	hypothetical protein		958669	959869
+SPD_0949	SPD_0949	"bacterial transferase hexapeptide (three repeats), putative"		959932	960532
+SPD_0950	SPD_0950	"transporter, major facilitator family protein"		960914	962126
+SPD_0951	SPD_0951	hypothetical protein		962784	963006
+SPD_0952	SPD_0952	"cell division protein FtsW, putative"		963907	965137
+SPD_0953	ppc	phosphoenolpyruvate carboxylase		965156	967853
+SPD_0954	SPD_0954	hypothetical protein		968235	969270
+SPD_0955	SPD_0955	amino acid or sugar ABC transport system permease protein		969338	970205
+SPD_0956	SPD_0956	"ABC transporter, ATP-binding protein"		970201	970960
+SPD_0957	dnaG	DNA primase		971049	972810
+SPD_0958	rpoD	RNA polymerase sigma-70 factor		972812	973922
+SPD_0959	SPD_0959	hypothetical protein		973935	974265
+SPD_0960	cpoA	glycosyl transferase CpoA		974298	975423
+SPD_0961	SPD_0961	"glycosyl transferase, group 1"		975438	976764
+SPD_0962	SPD_0962	hypothetical protein		976794	976971
+SPD_0963	SPD_0963	hypothetical protein		977029	977164
+SPD_0964	SPD_0964	GTP1/Obg family GTP-binding protein		977227	978538
+SPD_0965	SPD_0965	hypothetical protein		978547	978706
+SPD_0967	murA-1	UDP-N-acetylglucosamine 1-carboxyvinyltransferase		981327	982587
+SPD_0968	SPD_0968	"acetyltransferase, GNAT family protein"		982602	983154
+SPD_0969	SPD_0969	hypothetical protein		983146	984424
+SPD_0970	map	"methionine aminopeptidase, type I"		984439	985300
+SPD_0971	SPD_0971	"IS1381, transposase OrfA"		985680	986079
+SPD_0972	SPD_0972	"IS1381, transposase OrfB"		986093	986483
+SPD_0973	pcrA	ATP-dependent DNA helicase PcrA		986673	988965
+SPD_0975	SPD_0975	DNA repair protein RadC		989007	989688
+SPD_0974	SPD_0974	"class I glutamine amidotransferase, putative"		989684	990374
+SPD_0976	SPD_0976	hypothetical protein		990391	991033
+SPD_0977	SPD_0977	hypothetical protein		991115	991367
+SPD_0978	SPD_0978	hypothetical protein		991338	991686
+SPD_0979	SPD_0979	"aminotransferase, class V"		991690	992806
+SPD_0980	prs2	ribose-phosphate pyrophosphokinase		992815	993775
+SPD_0981	SPD_0981	"adenylate cyclase, putative"		993887	994457
+SPD_0982	SPD_0982	pyrophosphokinase family protein		994584	995256
+SPD_0983	SPD_0983	"inorganic polyphosphate/ATP-NAD kinase, putative"		995239	996058
+SPD_0984	SPD_0984	"ribosomal large subunit pseudouridine synthase, RluD subfamily protein"		996054	996951
+SPD_0985	pta	phosphate acetyltransferase		996994	997969
+SPD_0987	SPD_0987	conserved hypothetical protein TIGR00103		999729	1000029
+SPD_0988	SPD_0988	integral membrane protein		1000430	1001135
+SPD_0989	rplU	ribosomal protein L21		1001316	1001631
+SPD_0990	SPD_0990	hypothetical protein		1001646	1001991
+SPD_0991	rpmA	ribosomal protein L27		1002007	1002301
+SPD_0992	SPD_0992	hypothetical protein		1002646	1002817
+SPD_0993	SPD_0993	hypothetical protein		1002788	1002917
+SPD_0994	ribF	riboflavin biosynthesis protein RibF		1003253	1004171
+SPD_0995	SPD_0995	"membrane protein, putative"		1004263	1005112
+SPD_0996	SPD_0996	DegV family protein		1005253	1006093
+SPD_0997	hup	DNA-binding protein HU		1006198	1006474
+SPD_0998	SPD_0998	"ABC transporter, ATP-binding protein"		1006899	1008801
+SPD_0999	SPD_0999	"transcriptional regulator MutR, putative"		1008803	1009667
+SPD_1000	SPD_1000	"transporter, major facilitator family protein"		1009746	1010925
+SPD_1001	ligA	"DNA ligase, NAD-dependent"		1011017	1012976
+SPD_1002	pulA	"pullulanase, type I"		1013087	1015367
+SPD_1003	SPD_1003	hypothetical protein		1015718	1015892
+SPD_1004	gapN	"glyceraldehyde-3-phosphate dehydrogenase, NADP-dependent"		1015910	1017335
+SPD_1005	glgB	"1,4-alpha-glucan branching enzyme"		1017799	1019728
+SPD_1006	glgC	glucose-1-phosphate adenylyltransferase		1019717	1020860
+SPD_1007	glgD	"glucose-1-phosphate adenylyltransferase, GlgD subunit"		1020849	1021989
+SPD_1008	glgA	"glycogen/starch synthase, ADP-glucose type"		1021985	1023419
+SPD_1011	SPD_1011	glycerate kinase		1024131	1025247
+SPD_1010	SPD_1010	hypothetical protein		1025243	1025690
+SPD_1012	eno	phosphopyruvate hydratase		1025853	1027158
+SPD_1013	SPD_1013	"integrase/recombinase, phage integrase family protein"		1027295	1027742
+SPD_1014	SPD_1014	"IS630-Spn1, transposase Orf1"		1028138	1028489
+SPD_1015	rexB	ATP-dependent exonuclease RexB		1028989	1032289
+SPD_1016	rexA	exonuclease RexA		1032285	1035936
+SPD_1017	SPD_1017	hypothetical protein		1036105	1037284
+SPD_1018	iga	immunoglobulin A1 protease precursor		1037492	1043384
+SPD_1019	SPD_1019	GTP-binding protein		1043842	1044694
+SPD_1020	rnhB	ribonuclease HII		1044680	1045460
+SPD_1021	SPD_1021	voltage-gated chloride channel family protein		1045475	1047026
+SPD_1022	SPD_1022	hypothetical protein		1047218	1047332
+SPD_1023	SPD_1023	"integrase/recombinase, phage integrase family protein"		1047609	1048680
+SPD_1024	SPD_1024	"lipoate-protein ligase, putative"		1048752	1049742
+SPD_1025	lpdA	dihydrolipoamide dehydrogenase		1049805	1051491
+SPD_1026	SPD_1026	"acetoin dehydrogenase complex, E2 component, dihydrolipoamide acetyltransferase, putative"		1051554	1052598
+SPD_1027	SPD_1027	"acetoin dehydrogenase, E1 component, beta subunit, putative"		1052815	1053808
+SPD_1028	acoA	TPP-dependent acetoin dehydrogenase alpha-subunit		1053823	1054792
+SPD_1029	SPD_1029	MATE efflux family protein		1054945	1056307
+SPD_1030	pyrC	dihydroorotase		1056591	1057860
+SPD_1031	mutX	"Mutator mutT protein (7,8-dihydro-8-oxoguanine-triphosphatase) (8-oxo-dGTPase)"		1057872	1058337
+SPD_1032	ung	uracil-DNA glycosylase		1058346	1059000
+SPD_1033	SPD_1033	hypothetical protein		1059135	1059783
+SPD_1034	SPD_1034	"hydrolase, haloacid dehalogenase-like family protein"		1059796	1060510
+SPD_1035	SPD_1035	hypothetical protein		1060967	1061126
+SPD_1036	SPD_1036	hypothetical protein		1061195	1061348
+SPD_1037	SPD_1037	histidine triad protein		1061769	1064304
+SPD_1038	phpA	pneumococcal histidine triad protein A precursor		1064461	1066912
+SPD_1039	ptsI	phosphoenolpyruvate-protein phosphotransferase		1067166	1068900
+SPD_1040	ptsH	phosphocarrier protein HPr		1068905	1069169
+SPD_1041	nrdH	glutaredoxin-like protein NrdH		1069519	1069738
+SPD_1042	nrdE	"ribonucleoside-diphosphate reductase, alpha subunit"		1069818	1071978
+SPD_1043	nrdF	"ribonucleoside-diphosphate reductase, beta subunit"		1072165	1073128
+SPD_1044	lacR2	lactose phosphotransferase system repressor		1073309	1074071
+SPD_1045	SPD_1045	hypothetical protein		1074340	1074526
+SPD_1046	lacG-2	6-phospho-beta-galactosidase		1074568	1075975
+SPD_1047	lacE-2	"PTS system, lactose-specific IIBC components"		1076183	1077875
+SPD_1048	lacF-2	"PTS system, lactose-specific IIA component"		1077874	1078192
+SPD_1049	lacT	transcription antiterminator LacT		1078227	1079064
+SPD_1050	lacD	"tagatose 1,6-diphosphate aldolase"		1079297	1080278
+SPD_1051	lacC	tagatose-6-phosphate kinase		1080279	1081209
+SPD_1052	lacB	"galactose-6-phosphate isomerase, LacB subunit"		1081219	1081735
+SPD_1053	lacA	"galactose-6-phosphate isomerase, LacA subunit"		1081765	1082191
+SPD_1054	SPD_1054	hypothetical protein		1082348	1082693
+SPD_1057	SPD_1057	"PTS system, IIB component, putative"		1083671	1083974
+SPD_1059	SPD_1059	hypothetical protein		1084667	1084820
+SPD_1060	lepA	GTP-binding protein LepA		1084900	1086724
+SPD_1061	SPD_1061	serine/threonine protein phosphatase		1086802	1087531
+SPD_1062	recN	DNA repair protein RecN		1087532	1089200
+SPD_1063	SPD_1063	"transcriptional regulator of arginine metabolism expression, putative"		1089206	1089638
+SPD_1064	SPD_1064	"hemolysin A, putative"		1089630	1090446
+SPD_1065	ispA	geranyltranstransferase		1090438	1091314
+SPD_1066	xseB	"exodeoxyribonuclease VII, small subunit"		1091310	1091523
+SPD_1067	xseA	"exodeoxyribonuclease VII, large subunit"		1091500	1092841
+SPD_1068	udk	uridine kinase		1092968	1093607
+SPD_1069	SPD_1069	hypothetical protein		1093714	1094017
+SPD_1070	truB	tRNA pseudouridine synthase B		1094257	1095136
+SPD_1071	SPD_1071	hypothetical protein		1095236	1098422
+SPD_1072	SPD_1072	hypothetical protein		1098433	1099708
+SPD_1073	SPD_1073	O-acetylhomoserine aminocarboxypropyltransferase/cysteine synthase		1099803	1100919
+SPD_1074	SPD_1074	hypothetical protein		1100940	1101063
+SPD_1075	SPD_1075	"transporter, FNT family protein, putative"		1101210	1102008
+SPD_1076	srtA	sortase		1102251	1102995
+SPD_1077	gyrA	"DNA gyrase, A subunit"		1102994	1105463
+SPD_1078	ldh	L-lactate dehydrogenase		1105656	1106643
+SPD_1079	SPD_1079	"type II restriction endonuclease, putative"		1107028	1110283
+SPD_1080	SPD_1080	"type II restriction endonuclease, putative"		1110447	1112319
+SPD_1081	SPD_1081	hypothetical protein		1112393	1112648
+SPD_1082	SPD_1082	hypothetical protein		1112649	1112952
+SPD_1083	vicX	vicX protein		1112982	1113792
+SPD_1084	SPD_1084	sensory box sensor histidine kinase		1113793	1115143
+SPD_1085	SPD_1085	DNA-binding response regulator		1115135	1115840
+SPD_1086	mutY	A/G-specific adenine glycosylase		1115894	1117070
+SPD_1087	fhs	formate--tetrahydrofolate ligase		1117398	1119069
+SPD_1088	coaB	phosphopantothenate--cysteine ligase		1119298	1119988
+SPD_1089	coaC	phosphopantothenoylcysteine decarboxylase		1119999	1120551
+SPD_1090	SPD_1090	"membrane protein, putative"		1120534	1121098
+SPD_1091	SPD_1091	"membrane protein, putative"		1121379	1121907
+SPD_1093	SPD_1093	"transcriptional regulator, biotin repressor family protein"		1121918	1122434
+SPD_1092	SPD_1092	MutT/nudix family protein		1122430	1122898
+SPD_1094	SPD_1094	"acetyltransferase, GNAT family protein"		1122971	1123460
+SPD_1095	SPD_1095	hypothetical protein		1123425	1123989
+SPD_1096	uvrB	"excinuclease ABC, B subunit"		1123998	1125987
+SPD_1097	SPD_1097	CAAX amino terminal protease family protein		1126063	1127017
+SPD_1098	SPD_1098	"amino acid ABC transporter, amino acid-binding protein/permease protein"		1127189	1129355
+SPD_1099	SPD_1099	"amino acid ABC transporter, ATP-binding protein"		1129354	1130095
+SPD_1100	zwf	glucose-6-phosphate 1-dehydrogenase		1130243	1131731
+SPD_1101	ftsY	signal recognition particle-docking protein FtsY		1131776	1133054
+SPD_1102	SPD_1102	Cof family protein		1133057	1133876
+SPD_1103	SPD_1103	Cof family protein		1133875	1134670
+SPD_1104	smc	chromosome segregation protein SMC		1134666	1138206
+SPD_1105	rnc	ribonuclease III		1138196	1138895
+SPD_1107	guaC	guanosine monophosphate reductase		1139212	1140199
+SPD_1108	SPD_1108	hypothetical protein		1140373	1141690
+SPD_1109	SPD_1109	"endonuclease, putative"		1141676	1143608
+SPD_1110	SPD_1110	hypothetical protein		1143771	1143933
+SPD_1111	SPD_1111	hypothetical protein		1143922	1144096
+SPD_1112	SPD_1112	hypothetical protein		1144195	1144339
+SPD_1113	SPD_1113	"3-isopropylmalate dehydratase small subunit, putative"		1144557	1144917
+SPD_1114	SPD_1114	hypothetical protein		1145014	1145128
+SPD_1115	leuB	3-isopropylmalate dehydrogenase		1145186	1146224
+SPD_1117	SPD_1117	hypothetical protein		1147348	1148005
+SPD_1118	cutC	copper homeostasis protein CutC		1148048	1148681
+SPD_1119	SPD_1119	hypothetical protein		1148773	1149133
+SPD_1120	topA	DNA topoisomerase I		1149238	1151326
+SPD_1121	SPD_1121	"membrane protein, putative"		1151492	1152536
+SPD_1122	SPD_1122	"DNA processing protein DprA, putative"		1153425	1154274
+SPD_1123	licC	CTP:phosphocholine cytidylyltransferase		1154369	1155059
+SPD_1124	licB	protein LicB		1155070	1155949
+SPD_1125	pck	choline kinase		1155938	1156808
+SPD_1126	SPD_1126	"alcohol dehydrogenase, zinc-containing"		1156824	1157847
+SPD_1127	ispD	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase		1157851	1158559
+SPD_1128	SPD_1128	"polysaccharide biosynthesis protein, putative"		1158894	1160382
+SPD_1129	licD1	phosphotransferase LicD1		1160391	1161195
+SPD_1130	licD2	phosphotransferase LicD2		1161196	1162006
+SPD_1131	carB	"carbamoyl-phosphate synthase, large subunit"		1162280	1165457
+SPD_1132	carA	"carbamoyl-phosphate synthase, small subunit"		1165769	1166849
+SPD_1133	pyrB	aspartate carbamoyltransferase		1166898	1167822
+SPD_1134	pyrR	pyrimidine operon regulatory protein/uracil phosphoribosyltransferase		1167840	1168362
+SPD_1135	nth	endonuclease III		1168572	1169202
+SPD_1136	SPD_1136	putative ACR		1169201	1169744
+SPD_1137	SPD_1137	"ABC transporter, ATP-binding protein"		1170469	1172029
+SPD_1138	htpX	heat shock protein HtpX		1172177	1173077
+SPD_1139	lemA	LemA protein		1173078	1173639
+SPD_1140	gidB	methyltransferase GidB		1173732	1174446
+SPD_1141	uraA	uracil-xanthine permease		1174797	1176081
+SPD_1142	ffh	signal recognition particle protein		1176275	1177847
+SPD_1143	SPD_1143	hypothetical protein		1177858	1178191
+SPD_1144	SPD_1144	hypothetical protein		1178281	1178659
+SPD_1145	SPD_1145	hypothetical protein		1178730	1180035
+SPD_1146	SPD_1146	Cof family protein		1180047	1180854
+SPD_1148	rplS	ribosomal protein L19		1181021	1181369
+SPD_1149	crcB1	CrcB protein		1181487	1181817
+SPD_1150	crcB2	CrcB protein		1181810	1182185
+SPD_1151	SPD_1151	chorismate mutase		1182181	1182448
+SPD_1152	fld	flavodoxin		1182563	1183007
+SPD_1153	SPD_1153	DHH subfamily 1 protein		1183110	1184046
+SPD_1154	rpmE	ribosomal protein L31		1184141	1184384
+SPD_1155	SPD_1155	hypothetical protein		1184440	1185019
+SPD_1156	SPD_1156	Dyp-type peroxidase family protein		1184993	1185998
+SPD_1157	SPD_1157	hypothetical protein		1186049	1186316
+SPD_1158	gdhA	NADP-specific glutamate dehydrogenase		1187003	1188350
+SPD_1159	SPD_1159	hypothetical protein		1188845	1189016
+SPD_1160	SPD_1160	"ABC transporter, ATP-binding protein"		1189028	1189670
+SPD_1161	SPD_1161	hypothetical protein		1189941	1190379
+SPD_1162	SPD_1162	hypothetical protein		1190669	1190873
+SPD_1163	SPD_1163	"N-acetylneuraminate lyase, putative"		1190890	1191622
+SPD_1164	cdd-2	cytidine deaminase		1191839	1192247
+SPD_1165	SPD_1165	hypothetical protein		1192534	1193023
+SPD_1166	SPD_1166	hypothetical protein		1193027	1194437
+SPD_1167	SPD_1167	"ABC transporter, ATP-binding protein"		1194446	1196429
+SPD_1168	SPD_1168	"oligopeptide ABC transporter, pemease protein"		1196441	1197293
+SPD_1169	SPD_1169	"oligopeptide ABC transporter, permease protein"		1197309	1198260
+SPD_1170	SPD_1170	"oligopeptide ABC transporter,oligopeptide-binding protein"		1198369	1199998
+SPD_1171	SPD_1171	hypothetical protein		1200079	1201003
+SPD_1172	nanE-2	"N-acetylmannosamine-6-phosphate 2-epimerase 2, putative"		1201026	1201725
+SPD_1174	SPD_1174	hypothetical protein		1202617	1202839
+SPD_1175	SPD_1175	"membrane protein, putative"		1203902	1205222
+SPD_1176	SPD_1176	"ABC transporter, ATP-binding protein"		1205224	1205965
+SPD_1177	SPD_1177	"drug efflux ABC transporter, ATP-binding/permease protein"		1205979	1207587
+SPD_1178	SPD_1178	prolyl oligopeptidase family protein		1207583	1209524
+SPD_1179	SPD_1179	hypothetical protein		1209556	1212166
+SPD_1180	SPD_1180	CAAX amino terminal protease family protein		1212683	1213271
+SPD_1181	SPD_1181	hypothetical protein		1213363	1213507
+SPD_1182	SPD_1182	hypothetical protein		1213519	1213900
+SPD_1183	SPD_1183	hypothetical protein		1213954	1214233
+SPD_1184	SPD_1184	hypothetical protein		1214240	1214495
+SPD_1185	SPD_1185	hypothetical protein		1214491	1214665
+SPD_1186	SPD_1186	hypothetical protein		1214640	1214823
+SPD_1187	rplL	ribosomal protein L7/L12		1214852	1215221
+SPD_1188	rplJ	ribosomal protein L10		1215296	1215797
+SPD_1189	SPD_1189	hypothetical protein		1215801	1216026
+SPD_1190	SPD_1190	Atz/Trz family protein		1216046	1217306
+SPD_1191	SPD_1191	"ABC transporter, ATP-binding/permease protein"		1217607	1219359
+SPD_1192	SPD_1192	"ABC transporter, ATP-binding/permease protein"		1219360	1221085
+SPD_1193	msrAB1	peptide methionine sulfoxide reductase msrA/msrB 1		1221142	1222081
+SPD_1194	thrB	homoserine kinase		1222376	1223246
+SPD_1195	hom	homoserine dehydrogenase		1223247	1224534
+SPD_1196	mecA	adapter protein mecA		1224684	1225422
+SPD_1197	SPD_1197	hypothetical protein		1225563	1226598
+SPD_1198	SPD_1198	"membrane protein, putative"		1226626	1228060
+SPD_1199	SPD_1199	"glycosyl transferase, group 2 family protein"		1228075	1229062
+SPD_1200	SPD_1200	"glycosyl transferase, group 1 family protein"		1229063	1230164
+SPD_1201	licD3	phosphotransferase LicD3		1230156	1231002
+SPD_1202	psr	Psr protein		1231280	1232555
+SPD_1203	SPD_1203	prephenate dehydratase		1232551	1233400
+SPD_1204	aroK	shikimate kinase		1233396	1233873
+SPD_1205	aroA	3-phosphoshikimate 1-carboxyvinyltransferase		1233865	1235149
+SPD_1206	SPD_1206	hypothetical protein		1235240	1235579
+SPD_1207	tyrA	prephenate dehydrogenase		1235589	1236693
+SPD_1208	aroC	chorismate synthase		1236702	1237869
+SPD_1209	aroB	3-dehydroquinate synthase		1237878	1238946
+SPD_1210	aroE	shikimate 5-dehydrogenase		1238964	1239819
+SPD_1211	aroD	"3-dehydroquinate dehydratase, type I"		1239808	1240486
+SPD_1212	SPD_1212	hypothetical protein		1240482	1241655
+SPD_1213	SPD_1213	"membrane protein, putative"		1242332	1243967
+SPD_1214	SPD_1214	"ABC transporter, ATP-binding protein"		1243947	1244697
+SPD_1215	amy	alpha-amylase		1244874	1246329
+SPD_1216	alaS	alanyl-tRNA synthetase		1246418	1249037
+SPD_1217	SPD_1217	hypothetical protein		1249058	1249544
+SPD_1218	potD	"spermidine/putrescine ABC transporter, spermidine/putrescine-binding protein"		1250318	1251389
+SPD_1219	potC	"spermidine/putrescine ABC transporter, permease protein"		1251385	1252159
+SPD_1220	potH	"spermidine/putrescine ABC transporter, permease protein"		1252155	1252962
+SPD_1221	potA	"spermidine/putrescine ABC transporter, ATP-binding protein"		1252942	1254100
+SPD_1222	murB	UDP-N-acetylenolpyruvoylglucosamine reductase		1254158	1255109
+SPD_1223	SPD_1223	"membrane protein, putative"		1255220	1255973
+SPD_1224	budA	alpha-acetolactate decarboxylase		1255982	1256714
+SPD_1225	SPD_1225	hypothetical protein		1256855	1258127
+SPD_1226	SPD_1226	"amino acid ABC transporter, amino acid-binding protein"		1258146	1258962
+SPD_1227	SPD_1227	"phosphate transport system regulatory protein PhoU, putative"		1259118	1259772
+SPD_1228	SPD_1228	"phosphate ABC transporter, ATP-binding protein, putative"		1259783	1260542
+SPD_1229	SPD_1229	"phosphate ABC transporter, ATP-binding protein, putative"		1260554	1261358
+SPD_1230	SPD_1230	"phosphate ABC transporter, permease protein, putative"		1261368	1262253
+SPD_1231	SPD_1231	"phosphate ABC transporter, permease protein, putative"		1262242	1263160
+SPD_1232	SPD_1232	"phosphate ABC transporter, phosphate-binding protein, putative"		1263159	1264038
+SPD_1233	SPD_1233	NOL1/NOP2/sun family protein		1264611	1265916
+SPD_1234	SPD_1234	inositol monophosphatase family protein		1265916	1266690
+SPD_1235	SPD_1235	hypothetical protein		1266679	1266958
+SPD_1236	spx	regulatory protein Spx		1266957	1267359
+SPD_1237	SPD_1237	"membrane protein, putative"		1267568	1268186
+SPD_1238	SPD_1238	"hydrolase, haloacid dehalogenase-like family protein"		1268175	1268949
+SPD_1239	SPD_1239	"acyl-ACP thioesterase, putative"		1268959	1269697
+SPD_1240	SPD_1240	"oxygen-independent coproporphyrinogen III oxidase, putative"		1269701	1270832
+SPD_1241	SPD_1241	hypothetical protein		1270915	1271305
+SPD_1242	SPD_1242	hypothetical protein		1271320	1271704
+SPD_1243	lgt	prolipoprotein diacylglyceryl transferase		1271704	1272493
+SPD_1244	hprK	Hpr(Ser) kinase/phosphatase		1272485	1273421
+SPD_1245	rpsU	ribosomal protein S21		1273550	1273727
+SPD_1246	nagB	glucosamine-6-phosphate isomerase		1273866	1274574
+SPD_1247	queA	S-adenosylmethionine:tRNA ribosyltransferase-isomerase		1274724	1275753
+SPD_1248	SPD_1248	hypothetical protein		1276301	1276691
+SPD_1249	SPD_1249	putative acetyltransferase		1278144	1278696
+SPD_1250	nadE	NAD+ synthetase		1278942	1279767
+SPD_1251	pncB	"nicotinate phosphoribosyltransferase, putative"		1279763	1281224
+SPD_1252	SPD_1252	"membrane protein, putative"		1281339	1281828
+SPD_1253	SPD_1253	"transcriptional repressor, putative"		1281817	1282027
+SPD_1254	SPD_1254	"membrane protein, putative"		1282411	1283140
+SPD_1255	SPD_1255	"ABC transporter, ATP-binding protein"		1283155	1283878
+SPD_1256	SPD_1256	"peptidase, U32 family protein"		1284382	1285108
+SPD_1257	SPD_1257	hypothetical protein		1285274	1285442
+SPD_1258	SPD_1258	"peptidase, U32 family protein"		1285696	1286983
+SPD_1260	SPD_1260	"type II DNA modification methyltransferase, putative"		1288160	1289339
+SPD_1261	SPD_1261	hypothetical protein		1289597	1289744
+SPD_1262	SPD_1262	"transcriptional regulator, AraC family protein"		1289865	1290858
+SPD_1263	SPD_1263	"ABC transporter, ATP-binding/permease protein"		1291017	1292772
+SPD_1264	SPD_1264	"ABC transporter, ATP-binding protein"		1292755	1294477
+SPD_1265	SPD_1265	"membrane protein, putative"		1294487	1295072
+SPD_1266	SPD_1266	"membrane protein, putative"		1295071	1295767
+SPD_1267	SPD_1267	"ABC transporter, ATP-binding protein"		1295754	1297119
+SPD_1268	SPD_1268	hypothetical protein		1297906	1298368
+SPD_1269	SPD_1269	hypothetical protein		1298440	1298653
+SPD_1270	SPD_1270	hypothetical protein		1298661	1298967
+SPD_1271	SPD_1271	hypothetical protein		1298953	1299148
+SPD_1272	SPD_1272	"IS66 family element, Orf2"		1299317	1299668
+SPD_1273	SPD_1273	"IS66 family element, Orf1"		1299648	1299888
+SPD_1274	guaA	"GMP synthase, C-terminal domain"		1300137	1301700
+SPD_1275	SPD_1275	"transcriptional regulator, GntR family protein"		1301841	1302540
+SPD_1276	SPD_1276	"membrane protein, putative"		1302582	1303479
+SPD_1277	SPD_1277	hypothetical protein		1303487	1304426
+SPD_1278	cppA	C3-degrading proteinase		1304422	1305148
+SPD_1279	SPD_1279	"GDSL-like lipase/acylhydrolase, putative"		1305231	1305867
+SPD_1280	SPD_1280	Cof family protein		1305868	1306696
+SPD_1281	SPD_1281	hypothetical protein		1306717	1307053
+SPD_1282	SPD_1282	hypothetical protein		1307053	1307566
+SPD_1283	SPD_1283	hypothetical protein		1307659	1307782
+SPD_1284	SPD_1284	hypothetical protein		1307857	1307971
+SPD_1285	def	peptide deformylase		1308294	1308906
+SPD_1286	SPD_1286	TrmH family RNA methyltransferase group 3		1308950	1309679
+SPD_1287	trxB	thioredoxin-disulfide reductase		1309717	1310629
+SPD_1288	SPD_1288	hypothetical protein		1310694	1310919
+SPD_1289	SPD_1289	"amino acid ABC transporter, ATP-binding protein"		1310996	1311740
+SPD_1290	SPD_1290	"amino acid ABC transporter, permease protein"		1311739	1312540
+SPD_1291	SPD_1291	ArsC family protein		1312697	1313054
+SPD_1292	ogt	methylated-DNA--protein-cysteine S-methyltransferase		1313047	1313578
+SPD_1293	SPD_1293	"acetyltransferase, GNAT family protein"		1313577	1314072
+SPD_1294	SPD_1294	hypothetical protein		1314206	1314653
+SPD_1295	SPD_1295	hemolysin		1314649	1315297
+SPD_1296	SPD_1296	"glutamine amidotransferase, SNO family protein, putative"		1315317	1315899
+SPD_1297	SPD_1297	pyridoxine biosynthesis protein		1315899	1316775
+SPD_1298	nox	NADH oxidase		1316926	1318306
+SPD_1299	SPD_1299	hypothetical protein		1318447	1318603
+SPD_1300	SPD_1300	"thiamine biosynthesis protein ApbE, putative"		1318599	1319523
+SPD_1301	SPD_1301	NADPH-dependent FMN reductase		1319582	1320188
+SPD_1302	SPD_1302	"oxidoreductase, putative"		1320205	1321450
+SPD_1303	SPD_1303	hypothetical protein		1321566	1321824
+SPD_1304	glyS	"glycyl-tRNA synthetase, beta subunit"		1321865	1323902
+SPD_1305	glyQ	"glycyl-tRNA synthetase, alpha subunit"		1324161	1325079
+SPD_1306	SPD_1306	hypothetical protein		1325272	1325662
+SPD_1307	SPD_1307	hypothetical protein		1325643	1326033
+SPD_1308	SPD_1308	"oxidoreductase, aldo/keto reductase family protein"		1326305	1327148
+SPD_1309	pgdA	peptidoglycan GlcNAc deacetylase		1327261	1328704
+SPD_1310	SPD_1310	hypothetical protein		1328887	1329133
+SPD_1311	SPD_1311	"oxidoreductase, Gfo/Idh/MocA family protein"		1329479	1330457
+SPD_1312	SPD_1312	"ATP-dependent RNA helicase, DEAD/DEAH box family protein"		1330453	1331536
+SPD_1316	SPD_1316	hypothetical protein		1333510	1333849
+SPD_1317	SPD_1317	hypothetical protein		1333971	1334112
+SPD_1318	tuf	translation elongation factor Tu		1334495	1335692
+SPD_1319	SPD_1319	hypothetical protein		1336034	1336157
+SPD_1320	SPD_1320	"glycerol uptake facilitator protein, putative"		1336613	1337483
+SPD_1321	SPD_1321	cell wall surface anchor family protein		1337706	1338315
+SPD_1322	SPD_1322	hypothetical protein		1338272	1339379
+SPD_1323	SPD_1323	hypothetical protein		1339489	1339744
+SPD_1324	SPD_1324	"IS630-Spn1, transposase Orf2"		1340101	1340401
+SPD_1326	pgm	phosphoglucomutase/phosphomannomutase family protein		1341179	1342898
+SPD_1327	bta	bacterocin transport accessory protein		1343008	1343356
+SPD_1328	aatB	"amino acid ABC transporter, amino acid-binding protein"		1343634	1344471
+SPD_1329	SPD_1329	"amino acid ABC transporter, ATP-binding protein"		1344483	1345113
+SPD_1330	SPD_1330	"amino acid ABC transporter, permease protein"		1345122	1345764
+SPD_1331	SPD_1331	TPR domain protein		1345909	1347139
+SPD_1332	SPD_1332	"membrane protein, putative"		1347128	1348295
+SPD_1333	SPD_1333	hypothetical protein		1348438	1349452
+SPD_1334	atpC	"ATP synthase F1, epsilon subunit"		1349496	1349916
+SPD_1335	atpD	"ATP synthase F1, beta subunit"		1349926	1351333
+SPD_1336	atpG	"ATP synthase F1, gamma subunit"		1351418	1352297
+SPD_1337	atpA	"ATP synthase F1, alpha subunit"		1352312	1353818
+SPD_1338	atpH	"ATP synthase F1, delta subunit"		1353832	1354369
+SPD_1339	atpF	"ATP synthase F0, B subunit"		1354368	1354863
+SPD_1340	atpB	"ATP synthase F0, A subunit"		1354876	1355593
+SPD_1341	atpE	"ATP synthase F0, C subunit"		1355627	1355828
+SPD_1342	SPD_1342	"IS1239, transposase, putative"		1355902	1356910
+SPD_1343	SPD_1343	"acetyltransferase, GNAT family protein"		1357354	1357783
+SPD_1344	SPD_1344	hypothetical protein		1357870	1358278
+SPD_1345	greA	transcription elongation factor GreA		1358305	1358788
+SPD_1346	SPD_1346	"putative BCR, putative"		1358858	1360514
+SPD_1347	SPD_1347	"acetyltransferase, GNAT family protein"		1360594	1361089
+SPD_1348	SPD_1348	"acetyltransferase, GNAT family protein"		1361085	1361550
+SPD_1349	murC	UDP-N-acetylmuramate--alanine ligase		1361559	1362894
+SPD_1350	SPD_1350	hypothetical protein		1362904	1363522
+SPD_1351	SPD_1351	Snf2 family protein		1363569	1366668
+SPD_1352	SPD_1352	"aminotransferase, class II"		1366760	1367927
+SPD_1353	SPD_1353	"Cys/Met metabolism PLP-dependent enzyme, putative"		1367934	1369029
+SPD_1354	SPD_1354	hypothetical protein		1369186	1369339
+SPD_1355	SPD_1355	hypothetical protein		1369457	1369910
+SPD_1357	aliB	"oligopeptide ABC transporter, oligopeptide-binding protein AliB"		1371041	1373000
+SPD_1358	SPD_1358	"polysaccharide biosynthesis protein, putative"		1373202	1374825
+SPD_1359	murE	"UDP-N-acetylmuramoylalanyl-D-glutamate--2, 6-diaminopimelate ligase"		1374930	1376376
+SPD_1360	SPD_1360	hypothetical protein		1376421	1376616
+SPD_1362	SPD_1362	hypothetical protein		1377348	1377861
+SPD_1363	ppaC	"manganese-dependent inorganic pyrophosphatase, putative"		1377947	1378883
+SPD_1364	SPD_1364	hypothetical protein		1378953	1379253
+SPD_1365	SPD_1365	hypothetical protein		1379242	1379992
+SPD_1366	SPD_1366	"general stress protein 13, putative"		1380045	1380405
+SPD_1367	SPD_1367	"Cof family protein/peptidyl-prolyl cis-trans isomerase, cyclophilin type"		1380406	1381807
+SPD_1368	rpsR	ribosomal protein S18		1382101	1382341
+SPD_1369	ssb	single-strand binding protein		1382372	1382843
+SPD_1370	rpsF	ribosomal protein S6		1382854	1383145
+SPD_1371	asnS	asparaginyl-tRNA synthetase		1383297	1384641
+SPD_1372	SPD_1372	glyoxalase family protein		1384659	1385025
+SPD_1373	aspC	aspartate aminotransferase		1385017	1386205
+SPD_1374	SPD_1374	hypothetical protein		1386201	1386633
+SPD_1375	SPD_1375	"NADPH-dependent FMN reductase, putative"		1387010	1387559
+SPD_1376	SPD_1376	G5 domain family protein		1387796	1395452
+SPD_1377	SPD_1377	hypothetical protein		1395667	1397152
+SPD_1378	SPD_1378	hypothetical protein		1397202	1397931
+SPD_1379	SPD_1379	hypothetical protein		1398009	1398174
+SPD_1380	SPD_1380	hypothetical protein		1398340	1399936
+SPD_1381	def-2	polypeptide deformylase		1399947	1400358
+SPD_1382	SPD_1382	glutathione S-transferase family protein		1400473	1401265
+SPD_1383	SPD_1383	"cation-transporting ATPase, E1-E2 family protein"		1401277	1403974
+SPD_1384	SPD_1384	cation efflux family protein		1404277	1405462
+SPD_1385	SPD_1385	"ABC transporter, ATP-binding protein"		1405604	1407476
+SPD_1386	SPD_1386	polyA polymerase family protein		1407472	1408657
+SPD_1387	dapB	dihydrodipicolinate reductase		1408668	1409436
+SPD_1388	SPD_1388	DegV family protein		1409712	1410561
+SPD_1389	SPD_1389	hypothetical protein		1410562	1410937
+SPD_1390	SPD_1390	phosphoglucomutase/phosphomannomutase family protein		1411010	1412363
+SPD_1391	SPD_1391	"YbbR-like lipoprotein, putative"		1412386	1413166
+SPD_1392	SPD_1392	conserved hypothetical protein TIGR00159		1413152	1413968
+SPD_1393	SPD_1393	pyridine nucleotide-disulfide oxidoreductase family protein		1414145	1415114
+SPD_1394	SPD_1394	putative BCR		1415147	1416059
+SPD_1395	SPD_1395	hypothetical protein		1416055	1417033
+SPD_1396	SPD_1396	hypothetical protein		1417029	1417920
+SPD_1397	SPD_1397	endoribonuclease L-PSP		1417971	1418352
+SPD_1398	SPD_1398	GTP-binding protein		1418362	1418950
+SPD_1399	clpX	"ATP-dependent Clp protease, ATP-binding subunit ClpX"		1418958	1420191
+SPD_1400	SPD_1400	hypothetical protein		1420222	1420393
+SPD_1401	folA	dihydrofolate reductase		1420392	1420899
+SPD_1402	SPD_1402	non-heme iron-containing ferritin		1421028	1421547
+SPD_1403	lytC	"1,4-beta-N-acetylmuramidase, putative"		1422042	1423515
+SPD_1404	tpiA	triosephosphate isomerase		1423585	1424344
+SPD_1405	SPD_1405	hypothetical protein		1424441	1425119
+SPD_1406	metA	homoserine O-succinyltransferase		1425127	1426072
+SPD_1407	apt	adenine phosphoribosyltransferase		1426253	1426784
+SPD_1408	SPD_1408	hypothetical protein		1426853	1427612
+SPD_1409	SPD_1409	"sugar ABC transporter, ATP-binding protein"		1428112	1429243
+SPD_1411	SPD_1411	isochorismatase family protein		1429692	1430268
+SPD_1412	codY	GTP-sensing transcriptional pleiotropic repressor CodY		1430267	1431056
+SPD_1413	SPD_1413	"ATP-dependent RNA helicase, putative"		1431319	1432894
+SPD_1414	SPD_1414	oxalate:formate antiporter		1433092	1434319
+SPD_1415	SPD_1415	"oxidoreductase, pyridine nucleotide-disulfide, class I"		1434508	1435825
+SPD_1416	SPD_1416	hypothetical protein		1435923	1437267
+SPD_1417	SPD_1417	hypothetical protein		1437266	1438049
+SPD_1418	pepQ	proline dipeptidase PepQ		1438174	1439257
+SPD_1419	SPD_1419	hypothetical protein		1439249	1439453
+SPD_1422	SPD_1422	"membrane protein, putative"		1441071	1441533
+SPD_1423	SPD_1423	"phosphomethylpyrimidine kinase, putative"		1441510	1442284
+SPD_1424	truA	tRNA pseudouridine synthase A		1442273	1443023
+SPD_1425	SPD_1425	"transporter, major facilitator family protein"		1443335	1444487
+SPD_1426	SPD_1426	"membrane protein, putative"		1444726	1445356
+SPD_1427	phnA	PhnA protein		1445358	1445697
+SPD_1428	cmk	cytidylate kinase		1445827	1446499
+SPD_1429	SPD_1429	hypothetical protein		1446507	1446984
+SPD_1430	fer	ferredoxin		1447035	1447242
+SPD_1431	SPD_1431	"glycosyl transferase, group 2 family protein"		1447303	1448257
+SPD_1432	galE-1	UDP-glucose 4-epimerase		1448258	1449278
+SPD_1433	SPD_1433	FAD dependent oxidoreductase		1449578	1450682
+SPD_1434	SPD_1434	conserved hypothetical protein TIGR00486		1450698	1451496
+SPD_1435	SPD_1435	hypothetical protein		1451482	1452160
+SPD_1436	SPD_1436	"cation-transporting ATPase, E1-E2 family protein"		1452261	1454598
+SPD_1437	SPD_1437	acyltransferase domain protein		1454730	1455480
+SPD_1438	SPD_1438	"cadmium resistance transporter, putative"		1455772	1456387
+SPD_1439	rpsO	ribosomal protein S15		1457120	1457390
+SPD_1440	SPD_1440	hypothetical protein		1457530	1458160
+SPD_1441	SPD_1441	hypothetical protein		1458222	1458345
+SPD_1442	SPD_1442	hypothetical protein		1458963	1459170
+SPD_1443	SPD_1443	hypothetical protein		1459176	1459353
+SPD_1444	thrS	threonyl-tRNA synthetase		1459410	1461354
+SPD_1445	SPD_1445	sensor histidine kinase		1461402	1462377
+SPD_1446	SPD_1446	DNA-binding response regulator		1462369	1463047
+SPD_1447	SPD_1447	hypothetical protein		1463202	1464276
+SPD_1448	SPD_1448	Rrf2 family protein		1464737	1465175
+SPD_1449	SPD_1449	hypothetical protein		1465250	1466093
+SPD_1450	SPD_1450	iron-dependent transcriptional regulator		1466204	1466855
+SPD_1451	SPD_1451	hypothetical protein		1466835	1467006
+SPD_1452	SPD_1452	"membrane protein, putative"		1467156	1467549
+SPD_1454	SPD_1454	hypothetical protein		1467807	1468245
+SPD_1455	SPD_1455	hypothetical protein		1469540	1469654
+SPD_1456	SPD_1456	hypothetical protein		1469793	1469955
+SPD_1457	dtd	D-tyrosyl-tRNA(Tyr) deacylase		1469993	1470437
+SPD_1458	relA	GTP pyrophosphokinase		1470466	1472689
+SPD_1459	SPD_1459	metallo-beta-lactamase superfamily protein		1473683	1474313
+SPD_1460	pepO	endopeptidase O		1474435	1476328
+SPD_1461	psaB	"manganese ABC transporter, ATP-binding protein"		1476618	1477341
+SPD_1462	psaC	"manganese ABC transporter, permease protein, putative"		1477337	1478186
+SPD_1463	SPD_1463	"ABC transporter, substrate binding lipoprotein"		1478217	1479147
+SPD_1464	psaD	thiol peroxidase		1479269	1479761
+SPD_1465	SPD_1465	"efflux ABC transporter, permease protein"		1479856	1482565
+SPD_1466	SPD_1466	"ABC transporter, ATP-binding protein"		1482566	1483268
+SPD_1467	SPD_1467	hypothetical protein		1483517	1485929
+SPD_1468	SPD_1468	phosphoglycerate mutase		1485981	1486674
+SPD_1469	SPD_1469	hypothetical protein		1486724	1486913
+SPD_1470	SPD_1470	hypothetical protein		1487288	1487429
+SPD_1471	SPD_1471	hypothetical protein		1487432	1487549
+SPD_1472	ileS	isoleucyl-tRNA synthetase		1487996	1490789
+SPD_1473	SPD_1473	hypothetical protein		1491041	1491158
+SPD_1474	divIVA	cell division protein DivIVA		1491136	1491925
+SPD_1475	ylmH	YlmH protein		1491933	1492719
+SPD_1476	ylmG	YlmG protein		1492715	1492979
+SPD_1477	ylmF	YlmF protein		1492978	1493518
+SPD_1478	ylmE	YlmE protein		1493527	1494199
+SPD_1479	ftsZ	cell division protein FtsZ		1494203	1495463
+SPD_1480	ftsA	cell division protein FtsA		1495479	1496853
+SPD_1481	SPD_1481	"membrane protein, putative"		1497071	1497776
+SPD_1482	SPD_1482	MutT/nudix family protein		1497866	1498478
+SPD_1483	murF	"UDP-N-acetylmuramoylalanyl-D-glutamyl-2, 6-diaminopimelate--D-alanyl-D-alanyl ligase"		1498464	1499838
+SPD_1484	ddlA	D-alanine-D-alanine ligase		1499921	1500965
+SPD_1485	recR	recombination protein RecR		1501140	1501737
+SPD_1486	penA	penicillin-binding protein 2B		1501747	1503805
+SPD_1487	SPD_1487	"phosphosugar-binding transcriptional regulator, putative"		1504004	1504856
+SPD_1488	SPD_1488	ROK family protein		1504871	1505756
+SPD_1489	SPD_1489	"N-acetylneuraminate lyase, putative"		1505773	1506505
+SPD_1490	SPD_1490	hypothetical protein		1506873	1507338
+SPD_1491	SPD_1491	hypothetical protein		1507624	1507969
+SPD_1492	SPD_1492	hypothetical protein		1508065	1508518
+SPD_1493	SPD_1493	"sugar ABC transporter, permease protein"		1508790	1509630
+SPD_1494	SPD_1494	"sugar ABC transporter, permease protein"		1509645	1510533
+SPD_1495	SPD_1495	"sugar ABC transporter, sugar-binding protein"		1510763	1512092
+SPD_1496	SPD_1496	"PTS system, IIBC components"		1512216	1513734
+SPD_1497	nanE-1	"N-acetylmannosamine-6-phosphate 2-epimerase 2, putative"		1513752	1514451
+SPD_1498	SPD_1498	putative oxidoreductase		1514630	1515734
+SPD_1499	nanB	sialidase B precursor		1515745	1517839
+SPD_1500	SPD_1500	"ABC transporter, permease protein"		1517856	1518690
+SPD_1501	SPD_1501	"ABC transporter, permease protein"		1518689	1519574
+SPD_1502	SPD_1502	"ABC transporter, substrate-binding protein"		1519652	1520990
+SPD_1503	SPD_1503	hypothetical protein		1521008	1521461
+SPD_1504	nanA	sialidase A precursor		1522475	1525469
+SPD_1505	SPD_1505	hypothetical protein		1525825	1526053
+SPD_1506	SPD_1506	"acetyl xylan esterase, putative"		1526947	1527928
+SPD_1507	recG	ATP-dependent DNA helicase RecG		1528243	1530259
+SPD_1508	alr	alanine racemase		1530277	1531381
+SPD_1509	acpS	holo-(acyl-carrier-protein) synthase		1531370	1531733
+SPD_1510	SPD_1510	phospho-2-dehydro-3-deoxyheptonate aldolase		1531777	1532809
+SPD_1511	SPD_1511	phospho-2-dehydro-3-deoxyheptonate aldolase		1532810	1533842
+SPD_1512	secA	"preprotein translocase, SecA subunit"		1533922	1536436
+SPD_1514	SPD_1514	"ABC transporter, ATP-binding protein"		1536881	1537532
+SPD_1515	SPD_1515	"membrane protein, putative"		1537535	1538111
+SPD_1516	SPD_1516	"membrane protein, putative"		1538169	1538961
+SPD_1517	SPD_1517	hypothetical protein		1538982	1539375
+SPD_1518	SPD_1518	"transcriptional activator, Rgg/GadR/MutR family protein"		1539701	1540553
+SPD_1519	SPD_1519	phosphoglycerate dehydrogenase-related protein		1541688	1542999
+SPD_1520	SPD_1520	nitroreductase family protein		1543012	1543726
+SPD_1521	dnaI	primosomal protein DnaI		1543722	1544619
+SPD_1522	SPD_1522	hypothetical protein		1544619	1545789
+SPD_1523	SPD_1523	"transcriptional regulator, NrdR family protein"		1545789	1546263
+SPD_1524	SPD_1524	"transcriptional regulator, GntR family protein"		1546402	1546768
+SPD_1525	SPD_1525	"ABC transporter, ATP-binding protein"		1546772	1547468
+SPD_1526	SPD_1526	"membrane protein, putative"		1547484	1548252
+SPD_1527	SPD_1527	"membrane protein, putative"		1548664	1549864
+SPD_1528	SPD_1528	"ABC transporter, ATP-binding protein"		1549860	1550754
+SPD_1530	SPD_1530	"membrane protein, putative"		1552062	1552680
+SPD_1531	scrK	fructokinase		1552999	1553887
+SPD_1532	SPD_1532	PTS system IIABC components		1554035	1555919
+SPD_1533	SPD_1533	hypothetical protein		1556045	1556243
+SPD_1534	scrB	sucrose-6-phosphate hydrolase		1556295	1557750
+SPD_1535	scrR	sucrose operon repressor		1557730	1558696
+SPD_1536	SPD_1536	"hydroxymethylglutaryl-CoA reductase, degradative"		1558730	1560005
+SPD_1537	mvaS	hydroxymethylglutaryl-CoA synthase		1560004	1561201
+SPD_1538	SPD_1538	hypothetical protein		1561307	1561595
+SPD_1540	SPD_1540	"membrane protein, putative"		1562311	1562761
+SPD_1541	SPD_1541	"membrane protein, putative"		1562762	1563521
+SPD_1542	SPD_1542	serine/threonine protein kinase		1563635	1565615
+SPD_1543	SPD_1543	"phosphatase, putative"		1565611	1566352
+SPD_1544	sun	ribosomal RNA small subunit methyltransferase B		1566366	1567680
+SPD_1545	fmt	methionyl-tRNA formyltransferase		1567672	1568608
+SPD_1546	priA	primosomal protein N'		1568620	1571017
+SPD_1547	SPD_1547	"DNA-directed RNA polymerase omega chain, putative"		1571082	1571397
+SPD_1548	gmk	guanylate kinase		1571421	1572048
+SPD_1549	SPD_1549	KH domain protein		1572177	1573791
+SPD_1550	SPD_1550	"addiction module toxin, Txe/YoeB family protein"		1573981	1574236
+SPD_1551	SPD_1551	prevent-host-death family protein		1574239	1574500
+SPD_1552	SPD_1552	hypothetical protein		1574731	1575829
+SPD_1553	SPD_1553	hypothetical protein		1575838	1576585
+SPD_1554	SPD_1554	iojap-related protein		1576687	1577041
+SPD_1555	SPD_1555	isochorismatase family protein		1577053	1577554
+SPD_1556	SPD_1556	conserved hypothetical protein TIGR00488		1577554	1578148
+SPD_1557	nadD	nicotinate (nicotinamide) nucleotide adenylyltransferase		1578147	1578777
+SPD_1558	SPD_1558	conserved hypothetical protein TIGR00253		1578828	1579140
+SPD_1559	SPD_1559	GTP-binding protein		1579354	1580461
+SPD_1560	SPD_1560	HAD superfamily protein (subfamily IIIA) phosphatase		1580463	1580991
+SPD_1561	SPD_1561	"magnesium transporter, CorA family protein, putative"		1581005	1581902
+SPD_1562	SPD_1562	small conductance mechanosensitive ion channel (MscS) family protein		1581958	1582555
+SPD_1563	SPD_1563	dicarboxylate/amino acid:cation (Na+ or H+) symporter (DAACS) family protein		1582907	1583867
+SPD_1564	SPD_1564	hypothetical protein		1583934	1584888
+SPD_1565	SPD_1565	"transcriptional regulator, putative"		1585031	1585412
+SPD_1566	SPD_1566	hypothetical protein		1585429	1585732
+SPD_1567	trx	thioredoxin		1585748	1586063
+SPD_1568	SPD_1568	"GTP cyclohydrolase, putative"		1586556	1586901
+SPD_1569	SPD_1569	aquaporin		1587380	1588049
+SPD_1570	SPD_1570	hypothetical protein		1588159	1588714
+SPD_1571	SPD_1571	"oligoendopeptidase F, putative"		1588959	1590756
+SPD_1572	SPD_1572	conserved hypothetical protein TIGR00046		1590766	1591510
+SPD_1573	prmA	ribosomal protein L11 methyltransferase		1591511	1592462
+SPD_1574	SPD_1574	MutT/nudix family protein		1592599	1593028
+SPD_1575	SPD_1575	"lipoprotein, putative"		1592993	1594097
+SPD_1576	SPD_1576	hypothetical protein		1594115	1594586
+SPD_1577	SPD_1577	hypothetical protein		1594876	1595329
+SPD_1578	SPD_1578	hypothetical protein		1595681	1595861
+SPD_1579	SPD_1579	hypothetical protein		1596025	1596265
+SPD_1580	SPD_1580	"ATPase, AAA family protein"		1596534	1597806
+SPD_1582	SPD_1582	"sucrose-6-phosphate hydrolase, putative"		1598352	1599672
+SPD_1583	SPD_1583	"ABC transporter, permease protein"		1599681	1600527
+SPD_1584	SPD_1584	"ABC transporter, permease protein"		1600528	1601431
+SPD_1585	SPD_1585	"ABC transporter, sugar-binding protein"		1601526	1602837
+SPD_1586	SPD_1586	"sugar-binding transcriptional regulator, LacI family protein"		1602963	1603959
+SPD_1587	SPD_1587	"transcriptional activator, putative"		1604320	1605802
+SPD_1588	SPD_1588	hypothetical protein		1606491	1607058
+SPD_1589	SPD_1589	"lipoprotein, putative"		1607069	1607240
+SPD_1590	SPD_1590	"general stress protein 24, putative"		1607278	1607887
+SPD_1591	SPD_1591	hypothetical protein		1607917	1608121
+SPD_1592	SPD_1592	"acetyltransferase, GNAT family protein"		1608647	1609094
+SPD_1593	SPD_1593	"type IV prepilin peptidase, putative"		1609163	1609823
+SPD_1594	SPD_1594	transcriptional regulator		1609874	1611026
+SPD_1595	SPD_1595	hypothetical protein		1611040	1611772
+SPD_1596	trpA	"tryptophan synthase, alpha subunit"		1612073	1612850
+SPD_1597	trpB	"tryptophan synthase, beta subunit"		1612842	1614066
+SPD_1598	trpF	N-(5'phosphoribosyl)anthranilate isomerase		1614043	1614643
+SPD_1599	trpC	indole-3-glycerol phosphate synthase		1614629	1615397
+SPD_1600	trpD	anthranilate phosphoribosyltransferase		1615393	1616398
+SPD_1601	trpG	anthranilate synthase component II		1616408	1616975
+SPD_1602	trpE	anthranilate synthase component I		1616971	1618333
+SPD_1603	SPD_1603	hypothetical protein		1618467	1618623
+SPD_1604	SPD_1604	hypothetical protein		1618626	1618746
+SPD_1605	SPD_1605	"sugar-binding transcriptional regulator, LacI family protein"		1619519	1620521
+SPD_1606	SPD_1606	MgtC/SapB family protein		1621092	1621803
+SPD_1607	SPD_1607	"ABC transporter, permease protein"		1621805	1623497
+SPD_1608	SPD_1608	ABC transporter ATP-binding protein		1623508	1624519
+SPD_1609	SPD_1609	"ABC transporter, substrate-binding protein"		1624621	1625689
+SPD_1610	SPD_1610	hypothetical protein		1625713	1626373
+SPD_1611	SPD_1611	hypothetical protein		1626500	1626614
+SPD_1612	galE-2	UDP-glucose 4-epimerase		1626582	1627563
+SPD_1613	galT-1	galactose-1-phosphate uridylyltransferase		1627575	1629051
+SPD_1614	SPD_1614	"phosphate transport system regulatory protein PhoU, putative"		1629063	1629705
+SPD_1615	SPD_1615	hypothetical protein		1629762	1630257
+SPD_1616	SPD_1616	hypothetical protein		1630317	1630614
+SPD_1617	SPD_1617	cell wall surface anchor family protein		1630597	1632724
+SPD_1618	SPD_1618	hypothetical protein		1633669	1633846
+SPD_1619	SPD_1619	"capsular polysaccharide biosynthesis protein, putative"		1633887	1635114
+SPD_1620	SPD_1620	"glycosyl transferase, putative"		1635156	1635849
+SPD_1621	SPD_1621	"ABC transporter, ATP-binding/permease protein"		1636021	1637773
+SPD_1622	SPD_1622	"ABC transporter, ATP-binding/permease protein"		1637762	1639508
+SPD_1623	SPD_1623	hypothetical protein		1639635	1640166
+SPD_1624	SPD_1624	hypothetical protein		1640162	1640432
+SPD_1625	SPD_1625	hypothetical protein		1640391	1640619
+SPD_1626	xth	exodeoxyribonuclease III		1640752	1641580
+SPD_1628	xpt	xanthine phosphoribosyltransferase		1642851	1643433
+SPD_1629	pbuX	xanthine permease		1643432	1644695
+SPD_1630	SPD_1630	hypothetical protein		1644745	1645207
+SPD_1631	SPD_1631	Dam-replacing family protein		1645203	1645968
+SPD_1632	SPD_1632	hypothetical protein		1646148	1646553
+SPD_1633	galT-2	galactose-1-phosphate uridylyltransferase		1646622	1648104
+SPD_1634	galK	galactokinase		1648122	1649301
+SPD_1635	galR	galactose operon repressor		1649464	1650472
+SPD_1636	SPD_1636	"alcohol dehydrogenase, zinc-containing"		1650517	1651555
+SPD_1637	SPD_1637	"transcriptional regulator, MerR family protein"		1651555	1651909
+SPD_1638	SPD_1638	cation efflux system protein		1652152	1653043
+SPD_1639	SPD_1639	"transcriptional regulator, TetR family protein"		1653175	1653712
+SPD_1640	pnuC	"nicotinamide mononucleotide transporter PnuC, putative"		1653878	1654685
+SPD_1642	proWX	choline transporter (glycine betaine transport system permease protein)		1656513	1658034
+SPD_1643	proV	choline transporter		1658026	1658755
+SPD_1644	SPD_1644	hypothetical protein		1658769	1659534
+SPD_1645	SPD_1645	"transcriptional regulator, MarR family protein"		1659537	1659981
+SPD_1646	SPD_1646	hypothetical protein		1660662	1660959
+SPD_1647	pepA	glutamyl aminopeptidase PepA		1660980	1662045
+SPD_1648	SPD_1648	NAD-dependent epimerase/dehydratase family protein		1662445	1663147
+SPD_1649	SPD_1649	"iron-compound ABC transporter, permease protein"		1663569	1664529
+SPD_1650	SPD_1650	"iron-compound ABC transporter, permease protein"		1664518	1665475
+SPD_1651	SPD_1651	"iron-compound ABC transporter, ATP-binding protein"		1665471	1666224
+SPD_1652	SPD_1652	"iron-compound ABC transporter, iron-compound-binding protein"		1666319	1667285
+SPD_1653	SPD_1653	conserved hypothetical protein TIGR00278		1667509	1667752
+SPD_1654	rluB	ribosomal large subunit pseudouridine synthase B		1667751	1668474
+SPD_1655	scpB	segregation and condensation protein B		1668460	1669030
+SPD_1656	scpA	segregation and condensation protein A		1669048	1669777
+SPD_1657	SPD_1657	"integrase/recombinase, phage integrase family protein"		1669776	1670517
+SPD_1658	SPD_1658	CBS domain protein		1670507	1670969
+SPD_1659	SPD_1659	"phosphodiesterase, MJ0936 family protein"		1670965	1671487
+SPD_1660	SPD_1660	"non-canonical purine NTP pyrophosphatase, rdgB/HAM1 family protein"		1671462	1672434
+SPD_1661	murI	glutamate racemase		1672430	1673225
+SPD_1662	SPD_1662	hypothetical protein		1673431	1673680
+SPD_1663	treC	"alpha,alpha-phosphotrehalase"		1673821	1675447
+SPD_1664	SPD_1664	"PTS system, trehalose-specific IIABC components"		1675624	1677592
+SPD_1665	treR	trehalose operon repressor		1677776	1678487
+SPD_1667	amiF	"oligopeptide ABC transporter, ATP-binding protein AmiF"		1680023	1680950
+SPD_1668	amiE	"oligopeptide ABC transporter, ATP-binding protein AmiE"		1680960	1682028
+SPD_1669	amiD	"oligopeptide ABC transporter, permease protein AmiD"		1682036	1682963
+SPD_1670	amiC	"oligopeptide ABC transporter, permease protein AmiC"		1682962	1684459
+SPD_1671	amiA	"oligopeptide ABC transporter, oligopeptide-binding protein AmiA"		1684525	1686505
+SPD_1672	SPD_1672	"membrane protein, putative"		1687191	1688385
+SPD_1673	gtfA	sucrose phosphorylase		1688522	1689965
+SPD_1674	SPD_1674	hypothetical protein		1690148	1690316
+SPD_1675	rafG	"sugar ABC transporter, permease protein"		1690322	1691156
+SPD_1676	rafF	"sugar ABC transporter, permease protein"		1691169	1692036
+SPD_1677	rafE	"sugar ABC transporter, sugar-binding protein"		1692049	1693309
+SPD_1678	aga	alpha-galactosidase AgaN		1693400	1695563
+SPD_1679	msmR	msm operon regulatory protein MsmR		1695670	1696531
+SPD_1680	SPD_1680	biotin--acetyl-CoA-carboxylase ligase		1696527	1697463
+SPD_1704	rumA-2	23S rRNA (uracil-5-)-methyltransferase RumA		1705095	1706451
+SPD_1705	recX	regulatory protein RecX		1706488	1707265
+SPD_1706	SPD_1706	hypothetical protein		1707353	1707887
+SPD_1707	SPD_1707	hypothetical protein		1708240	1708447
+SPD_1708	SPD_1708	"IS1167, transposase"		1708606	1709836
+SPD_1709	groL	chaperonin GroEL		1709934	1711557
+SPD_1710	groES	"chaperonin, 10 kDa"		1711572	1711857
+SPD_1711	SPD_1711	single-strand binding protein family protein		1712012	1712408
+SPD_1712	SPD_1712	"oxidoreductase, short chain dehydrogenase/reductase family protein"		1712485	1713247
+SPD_1713	SPD_1713	hypothetical protein		1713279	1713906
+SPD_1714	SPD_1714	thioredoxin family protein		1713921	1714239
+SPD_1715	SPD_1715	hypothetical protein		1714235	1714535
+SPD_1716	SPD_1716	hypothetical protein		1714871	1715063
+SPD_1717	SPD_1717	"membrane protein, putative"		1715223	1715898
+SPD_1718	SPD_1718	hypothetical protein		1715903	1716350
+SPD_1719	SPD_1719	PAP2 family protein		1716463	1716967
+SPD_1720	SPD_1720	hypothetical protein		1716963	1717326
+SPD_1721	SPD_1721	"ABC transporter, ATP-binding protein"		1717391	1718423
+SPD_1723	SPD_1723	hypothetical protein		1719267	1719381
+SPD_1725	SPD_1725	conserved hypothetical protein TIGR01033		1719860	1720577
+SPD_1726	ply	pneumolysin		1721457	1722873
+SPD_1727	SPD_1727	hypothetical protein		1722883	1723294
+SPD_1728	SPD_1728	hypothetical protein		1723286	1723895
+SPD_1729	SPD_1729	hypothetical protein		1723907	1724366
+SPD_1731	SPD_1731	hypothetical protein		1725654	1725915
+SPD_1732	SPD_1732	hypothetical protein		1725973	1726525
+SPD_1733	SPD_1733	hypothetical protein		1726514	1726712
+SPD_1734	SPD_1734	hypothetical protein		1726715	1727510
+SPD_1735	SPD_1735	hypothetical protein		1727917	1728343
+SPD_1736	SPD_1736	hypothetical protein		1728471	1728831
+SPD_1737	lytA	autolysin/N-acetylmuramoyl-L-alanine amidase		1729601	1730558
+SPD_1738	dinF	MATE efflux family protein DinF		1730933	1732304
+SPD_1739	recA	recA protein		1732610	1733777
+SPD_1740	cinA	"competence-damage protein (Exported protein 10), putative"		1733831	1735088
+SPD_1741	SPD_1741	"transcriptional regulator, putative"		1735172	1736189
+SPD_1742	SPD_1742	"acetyltransferase, GNAT family protein"		1736196	1736715
+SPD_1743	SPD_1743	hypothetical protein		1736704	1737148
+SPD_1744	SPD_1744	"lipoprotein, putative"		1737233	1737854
+SPD_1745	SPD_1745	"transcriptional regulator PlcR, putative"		1738236	1739100
+SPD_1746	SPD_1746	hypothetical protein		1739291	1739462
+SPD_1747	SPD_1747	hypothetical protein		1739564	1739789
+SPD_1748	SPD_1748	hypothetical protein		1739795	1739984
+SPD_1749	SPD_1749	"bacteriocin formation protein, putative"		1740099	1743090
+SPD_1750	wrbA	multimeric flavodoxin WrbA (general function prediction only)		1743439	1744144
+SPD_1751	SPD_1751	"membrane protein, putative"		1744124	1745054
+SPD_1752	SPD_1752	"toxin secretion ABC transporter, ATP-binding/permease protein"		1745050	1747159
+SPD_1753	SPD_1753	"serine protease, subtilase family protein"		1747182	1748922
+SPD_1754	SPD_1754	hypothetical protein		1748972	1749740
+SPD_1755	SPD_1755	"ABC transporter, ATP-binding protein"		1749741	1750374
+SPD_1756	SPD_1756	hypothetical protein		1750531	1750693
+SPD_1757	ndk	nucleoside diphosphate kinase		1751319	1751733
+SPD_1758	rpoC	"DNA-directed RNA polymerase, beta' subunit"		1751843	1755521
+SPD_1759	rpoB	"DNA-directed RNA polymerase, beta subunit"		1755553	1759165
+SPD_1761	SPD_1761	CBS domain membrane protein		1759848	1761180
+SPD_1762	SPD_1762	DNA-entry nuclease		1761408	1762233
+SPD_1763	SPD_1763	hypothetical protein		1762271	1762478
+SPD_1764	murA-2	UDP-N-acetylglucosamine 1-carboxyvinyltransferase		1762452	1763736
+SPD_1765	SPD_1765	hypothetical protein		1764047	1765085
+SPD_1766	coaD	pantetheine-phosphate adenylyltransferase		1765068	1765557
+SPD_1767	SPD_1767	"type II DNA modification methyltransferase, putative"		1765546	1766086
+SPD_1768	asnA	aspartate--ammonia ligase		1766150	1767143
+SPD_1770	SPD_1770	hypothetical protein		1767122	1767281
+SPD_1769	SPD_1769	"membrane protein, putative"		1767254	1767962
+SPD_1771	SPD_1771	SpoU rRNA Methylase family protein		1767993	1768734
+SPD_1772	SPD_1772	"acylphosphatase, putative"		1768782	1769046
+SPD_1773	SPD_1773	SpoIIIJ family protein		1769123	1770050
+SPD_1774	pflA	pyruvate formate-lyase activating enzyme		1770124	1770919
+SPD_1775	lysA	diaminopimelate decarboxylase		1771044	1772295
+SPD_1776	purR	pur operon repressor PurR		1772361	1773189
+SPD_1777	cbf1	cmp-binding-factor 1		1773455	1774409
+SPD_1778	SPD_1778	hypothetical protein		1774386	1775643
+SPD_1779	SPD_1779	thiamine pyrophosphokinase		1775644	1776307
+SPD_1780	rpe	ribulose-phosphate 3-epimerase		1776269	1776926
+SPD_1781	rsgA	ribosome small subunit-dependent GTPase A		1776936	1777815
+SPD_1782	ksgA	dimethyladenosine transferase		1777816	1778689
+SPD_1783	SPD_1783	hypothetical protein		1778819	1779128
+SPD_1784	SPD_1784	"ABC transporter, ATP-binding protein"		1779120	1779762
+SPD_1785	SPD_1785	"immunity protein, putative"		1779763	1781794
+SPD_1786	SPD_1786	"transcriptional regulator PlcR, putative"		1782062	1782962
+SPD_1787	SPD_1787	primase-related protein		1783033	1783594
+SPD_1788	SPD_1788	"hydrolase, TatD family protein"		1783593	1784367
+SPD_1789	SPD_1789	cell wall surface anchor family protein		1784672	1785338
+SPD_1790	rpmH	ribosomal protein L34		1785600	1785735
+SPD_1791	SPD_1791	"aminotransferase, class I"		1785879	1787094
+SPD_1792	SPD_1792	hypothetical protein		1787249	1787543
+SPD_1793	SPD_1793	universal stress protein family protein		1787704	1788157
+SPD_1794	SPD_1794	Cof family protein		1788191	1789580
+SPD_1796	SPD_1796	"L-asparaginase, putative"		1789645	1790608
+SPD_1795	SPD_1795	hypothetical protein		1790604	1790733
+SPD_1797	ccpA	catabolite control protein A		1790859	1791870
+SPD_1798	SPD_1798	DNA-binding response regulator		1792294	1792894
+SPD_1799	SPD_1799	"sensor histidine kinase, putative"		1792895	1793993
+SPD_1800	SPD_1800	"membrane protein, putative"		1793992	1794730
+SPD_1801	SPD_1801	"ABC transporter, ATP-binding protein"		1794731	1795616
+SPD_1802	SPD_1802	hypothetical protein		1795602	1795797
+SPD_1803	SPD_1803	hypothetical protein		1795793	1795973
+SPD_1818	comX2	transcriptional regulator ComX2		1802678	1803158
+SPD_1819	nusG	transcription termination/antitermination factor NusG		1803279	1803816
+SPD_1820	secE	"preprotein translocase, SecE subunit"		1803870	1804047
+SPD_1821	pbp2A	penicillin-binding protein 2A		1804261	1806457
+SPD_1822	SPD_1822	"ribosomal large subunit pseudouridine synthase, RluD subfamily protein"		1806543	1807419
+SPD_1823	gap	"glyceraldehyde-3-phosphate dehydrogenase, type I"		1807486	1808494
+SPD_1824	SPD_1824	hypothetical protein		1808670	1809633
+SPD_1826	nadC	nicotinate-nucleotide pyrophosphorylase		1810656	1811529
+SPD_1827	SPD_1827	"membrane protein, putative"		1811765	1813076
+SPD_1828	SPD_1828	hypothetical protein		1813441	1813573
+SPD_1829	SPD_1829	"transcriptional regulator, GntR family protein"		1814095	1814824
+SPD_1830	SPD_1830	"glycosyl hydrolase, family protein 1"		1814981	1816391
+SPD_1831	SPD_1831	"PTS system, IIC component"		1816408	1817704
+SPD_1832	SPD_1832	"PTS system, IIB component"		1817708	1818017
+SPD_1833	SPD_1833	"PTS system, IIA component"		1818013	1818322
+SPD_1834	SPD_1834	"alcohol dehydrogenase, iron-containing"		1819229	1821881
+SPD_1835	SPD_1835	hypothetical protein		1822083	1822221
+SPD_1836	SPD_1836	hypothetical protein		1822180	1822591
+SPD_1837	SPD_1837	phosphotyrosine protein phosphatase		1822592	1823021
+SPD_1838	yajC-2	"preprotein translocase, YajC subunit"		1823067	1823367
+SPD_1839	tkt	transketolase		1823483	1825460
+SPD_1840	SPD_1840	hypothetical protein		1825573	1826665
+SPD_1841	SPD_1841	"transcriptional regulator, BglG family protein"		1826776	1828450
+SPD_1842	araD	L-ribulose-5-phosphate 4-epimerase		1828628	1829333
+SPD_1843	SPD_1843	"hexulose-6-phosphate isomerase, putative"		1829334	1830198
+SPD_1844	SPD_1844	"hexulose-6-phosphate synthase, putative"		1830201	1830867
+SPD_1845	SPD_1845	"PTS system, IIA component"		1830883	1831369
+SPD_1846	SPD_1846	"PTS system, IIB component"		1831445	1831727
+SPD_1847	SPD_1847	"PTS system, membrane component, putative"		1831749	1833207
+SPD_1848	SPD_1848	hypothetical protein		1833337	1833961
+SPD_1849	SPD_1849	"protein jag (SpoIIIJ-associated protein), putative"		1834011	1834998
+SPD_1850	SPD_1850	SpoIIIJ family protein		1835016	1835847
+SPD_1851	rnpA	ribonuclease P protein component		1835815	1836187
+SPD_1852	SPD_1852	hypothetical protein		1836203	1836335
+SPD_1853	ackA	acetate kinase		1836335	1837526
+SPD_1854	SPD_1854	hypothetical protein		1837576	1838530
+SPD_1855	SPD_1855	hypothetical protein		1838590	1838971
+SPD_1856	SPD_1856	hypothetical protein		1839002	1839185
+SPD_1857	SPD_1857	hypothetical protein		1839321	1839735
+SPD_1858	SPD_1858	hypothetical protein		1839712	1840174
+SPD_1859	SPD_1859	hypothetical protein		1840136	1840397
+SPD_1860	clgD	competence protein CglD		1840401	1840806
+SPD_1861	cglC	competence protein CglC		1840798	1841125
+SPD_1862	cglB	competence protein CglB		1841126	1841999
+SPD_1863	cglA	competence protein CglA		1842090	1843032
+SPD_1864	SPD_1864	hypothetical protein		1843107	1843473
+SPD_1865	SPD_1865	"alcohol dehydrogenase, zinc-containing"		1843623	1844682
+SPD_1866	nagA	N-acetylglucosamine-6-phosphate deacetylase		1844844	1845996
+SPD_1867	SPD_1867	"membrane protein, putative"		1846148	1847966
+SPD_1868	tgt	queuine tRNA-ribosyltransferase		1848063	1849206
+SPD_1869	SPD_1869	"membrane protein, putative"		1849335	1850193
+SPD_1871	SPD_1871	hypothetical protein		1851003	1851303
+SPD_1873	SPD_1873	hypothetical protein		1851734	1851848
+SPD_1874	SPD_1874	LysM domain protein		1852057	1853200
+SPD_1875	SPD_1875	"hydrolase, haloacid dehalogenase-like family protein"		1853365	1853986
+SPD_1876	SPD_1876	MATE efflux family protein		1853989	1855270
+SPD_1877	thrC	threonine synthase		1855330	1856815
+SPD_1878	SPD_1878	hypothetical protein		1856890	1858168
+SPD_1895	SPD_1895	cytidine/deoxycytidylate deaminase family protein		1864631	1865066
+SPD_1896	gltX	glutamyl-tRNA synthetase		1865079	1866540
+SPD_1897	pgi	glucose-6-phosphate isomerase		1866663	1868013
+SPD_1898	SPD_1898	hypothetical protein		1867999	1868179
+SPD_1899	SPD_1899	"glutamine amidotransferase, class 1"		1868182	1868911
+SPD_1900	SPD_1900	"ABC transporter, ATP-binding/permease protein"		1869010	1870777
+SPD_1901	SPD_1901	"transposase, putative"		1871024	1871234
+SPD_1902	SPD_1902	"ABC transporter, ATP-binding/permease protein"		1871563	1873258
+SPD_1903	mutS	DNA mismatch repair protein MutS		1873404	1875939
+SPD_1904	argR	arginine repressor		1875989	1876436
+SPD_1905	argS	arginyl-tRNA synthetase		1876583	1878275
+SPD_1906	SPD_1906	"IS1381, transposase OrfB"		1878589	1878979
+SPD_1907	SPD_1907	hypothetical protein		1879142	1879619
+SPD_1908	SPD_1908	response regulator		1879702	1880410
+SPD_1909	pnpS	sensor histidine kinase PnpS		1880410	1881742
+SPD_1910	pstS	"phosphate ABC transporter, phosphate-binding protein"		1881908	1882784
+SPD_1911	pstC	"phosphate ABC transporter, permease protein PstC"		1882901	1883765
+SPD_1912	pstA	"phosphate ABC transporter, permease protein PstA"		1883757	1884573
+SPD_1913	pstB	"phosphate ABC transporter, ATP-binding protein"		1884574	1885327
+SPD_1914	phoU	phosphate transport system regulatory protein PhoU		1885341	1885992
+SPD_1916	SPD_1916	transcriptional regulator		1886598	1887039
+SPD_1917	SPD_1917	hypothetical protein		1887129	1887252
+SPD_1918	gpsA	(NAD(P)+) glycerol-3-phosphate dehydrogenase		1887250	1888267
+SPD_1919	galU	UTP-glucose-1-phosphate uridylyltransferase		1888288	1889188
+SPD_1920	SPD_1920	"peptidase, S54 (rhomboid) family protein"		1889254	1889932
+SPD_1921	SPD_1921	5-formyltetrahydrofolate cyclo-ligase family protein		1889915	1890455
+SPD_1922	SPD_1922	"peptidase, M20/M25/M40 family protein"		1890466	1891597
+SPD_1923	SPD_1923	"2,3,4,5-tetrahydropyridine-2-carboxylate N-succinyltransferase, putative"		1891664	1892363
+SPD_1924	SPD_1924	"membrane protein, putative"		1892592	1893504
+SPD_1925	pbp1B	penicillin-binding protein 1B		1893568	1896034
+SPD_1926	tyrS	tyrosyl-tRNA synthetase		1896175	1897432
+SPD_1927	SPD_1927	"cation-transporting ATPase, E1-E2 family protein"		1897509	1899573
+SPD_1928	SPD_1928	hypothetical protein		1899574	1899886
+SPD_1929	rrmA	rRNA (guanine-N1-)-methyltransferase		1900004	1900853
+SPD_1930	SPD_1930	hypothetical protein		1901368	1901575
+SPD_1931	SPD_1931	hypothetical protein		1901651	1902224
+SPD_1932	malP	maltodextrin phosphorylase		1903268	1905527
+SPD_1933	malQ	4-alpha-glucanotransferase		1905552	1907070
+SPD_1934	malX	"maltose/maltodextrin ABC transporter, maltose/maltodextrin-binding protein"		1907619	1908891
+SPD_1935	malC	"maltodextrin ABC transporter, permease protein"		1909001	1910294
+SPD_1936	malD	"maltodextrin ABC transporter, permease protein"		1910295	1911138
+SPD_1937	malA	maltodextrose utilization protein MalA		1911390	1912191
+SPD_1938	malR	maltose operon transcriptional repressor		1912200	1913187
+SPD_1939	SPD_1939	hypothetical protein		1913253	1913475
+SPD_1940	SPD_1940	"membrane protein, putative"		1913478	1914420
+SPD_1941	aspS	aspartyl-tRNA synthetase		1914397	1916161
+SPD_1942	SPD_1942	hypothetical protein		1916279	1916471
+SPD_1943	SPD_1943	hypothetical protein		1916512	1916743
+SPD_1944	SPD_1944	CAAX amino terminal protease family protein		1916760	1917402
+SPD_1945	SPD_1945	"membrane protein, putative"		1917413	1918148
+SPD_1946	SPD_1946	hypothetical protein		1918150	1918348
+SPD_1947	SPD_1947	"transcriptional regulator, putative"		1918347	1918554
+SPD_1948	SPD_1948	hypothetical protein		1918563	1919028
+SPD_1949	SPD_1949	hypothetical protein		1919027	1919207
+SPD_1950	hisS	histidyl-tRNA synthetase		1919203	1920493
+SPD_1951	SPD_1951	"transporter, major facilitator family protein"		1920570	1921818
+SPD_1952	SPD_1952	"transcriptional activator, Rgg/GadR/MutR family protein, C-terminal domain"		1922007	1922859
+SPD_1953	SPD_1953	hypothetical protein		1922833	1922968
+SPD_1954	SPD_1954	hypothetical protein		1922982	1923324
+SPD_1955	SPD_1955	hypothetical protein		1923387	1923507
+SPD_1956	ilvD	dihydroxy-acid dehydratase		1923532	1925236
+SPD_1957	SPD_1957	"transketolase, C-terminal subunit"		1925468	1926401
+SPD_1958	SPD_1958	transketolase N-terminal subunit		1926397	1927255
+SPD_1959	SPD_1959	"PTS system, IIC component, putative"		1927258	1928605
+SPD_1960	SPD_1960	"PTS system, IIB component, putative"		1928617	1928902
+SPD_1961	SPD_1961	"transcriptional regulator, BglG family protein"		1928905	1930936
+SPD_1962	SPD_1962	hypothetical protein		1931126	1932134
+SPD_1963	rpmF	ribosomal protein L32		1932488	1932671
+SPD_1964	rpmG	ribosomal protein L33		1932686	1932836
+SPD_1965	pcpA	choline binding protein PcpA		1933315	1935358
+SPD_1966	SPD_1966	"IS1381, transposase OrfA"		1935714	1936284
+SPD_1967	SPD_1967	"IS1381, transposase OrfB"		1936309	1936699
+SPD_1968	SPD_1968	hypothetical protein		1936750	1937077
+SPD_1969	SPD_1969	glycosyl hydrolase-related protein		1937402	1939283
+SPD_1970	SPD_1970	ROK family protein		1939276	1940146
+SPD_1971	SPD_1971	glycosyl hydrolase-related protein		1940229	1942875
+SPD_1972	SPD_1972	hypothetical protein		1942965	1944246
+SPD_1973	SPD_1973	"alpha-1,2-mannosidase, putative"		1944416	1946501
+SPD_1974	SPD_1974	hypothetical protein		1946540	1948220
+SPD_1976	argF	ornithine carbamoyltransferase		1950271	1951288
+SPD_1977	arcC	carbamate kinase		1951452	1952400
+SPD_1978	SPD_1978	"membrane protein, putative"		1952608	1954120
+SPD_1979	SPD_1979	"peptidase, M20/M25/M40 family protein"		1954141	1955473
+SPD_1981	SPD_1981	hypothetical protein		1955877	1956168
+SPD_1982	SPD_1982	hypothetical protein		1956155	1956305
+SPD_1983	SPD_1983	hypothetical protein		1956590	1956770
+SPD_1984	SPD_1984	hypersensitive-induced reaction protein 4		1956806	1957706
+SPD_1985	SPD_1985	"alcohol dehydrogenase, iron-containing"		1957835	1958987
+SPD_1986	fucI	L-fucose isomerase		1959132	1960899
+SPD_1987	SPD_1987	fucolectin-related protein		1960955	1964072
+SPD_1988	SPD_1988	hypothetical protein		1964081	1966376
+SPD_1989	SPD_1989	"PTS system, IID component"		1966434	1967235
+SPD_1990	SPD_1990	"PTS system, IIC component"		1967231	1968005
+SPD_1991	SPD_1991	"PTS system, IIB component"		1968029	1968500
+SPD_1992	SPD_1992	"PTS system, IIA component"		1968490	1968934
+SPD_1993	fucU	RbsD/FucU transport protein family protein		1968914	1969355
+SPD_1994	fucA	L-fuculose phosphate aldolase		1969366	1970005
+SPD_1995	fucK	"L-fuculose kinase FucK, putative"		1970119	1971523
+SPD_1996	SPD_1996	"fucose operon repressor, putative"		1971698	1972472
+SPD_1997	adcA	"zinc ABC transporter, zinc-binding lipoprotein"		1973600	1975106
+SPD_1998	adcB	"zinc ABC transporter, permease protein"		1975115	1975922
+SPD_1999	adcC	"zinc ABC transporter, ATP-binding protein"		1975914	1976619
+SPD_2000	adcR	adc operon repressor AdcR		1976618	1977059
+SPD_2001	SPD_2001	hypothetical protein		1977043	1977181
+SPD_2002	dltD	undecaprenol-phosphate-poly(glycerophosphate subunit) D-alanine transfer protein		1977213	1978482
+SPD_2003	dltC	D-alanine--poly(phosphoribitol) ligase subunit 2		1978474	1978714
+SPD_2004	dltB	protein DltB		1978727	1979972
+SPD_2005	dltA	D-alanine--poly(phosphoribitol) ligase subunit 1		1979968	1981519
+SPD_2006	SPD_2006	hypothetical protein		1981539	1981671
+SPD_2007	SPD_2007	"transporter, major facilitator family protein"		1981984	1983163
+SPD_2009	SPD_2009	hypothetical protein		1986006	1986594
+SPD_2010	SPD_2010	hypothetical protein		1986680	1986827
+SPD_2011	glpF	glycerol uptake facilitator protein		1987074	1987779
+SPD_2012	glpO	alpha-glycerophosphate oxidase		1987848	1989675
+SPD_2013	glpK	glycerol kinase		1989716	1991225
+SPD_2014	SPD_2014	hypothetical protein		1991383	1992811
+SPD_2015	hslO	"chaperonin, 33 kDa"		1992975	1993848
+SPD_2016	SPD_2016	"TIM-barrel protein, nifR3 family protein, putative"		1993858	1994815
+SPD_2017	cbpA	choline binding protein A		1995044	1997150
+SPD_2018	SPD_2018	isoprenylcysteine carboxyl methyltransferase (ICMT) family protein		1997228	1997756
+SPD_2019	SPD_2019	sensor histidine kinase		1997838	1999170
+SPD_2020	SPD_2020	DNA-binding response regulator		1999166	1999820
+SPD_2021	SPD_2021	hypothetical protein		2000108	2000243
+SPD_2022	SPD_2022	"ATP-dependent Clp protease, ATP-binding subunit"		2000461	2002894
+SPD_2023	ctsR	transcriptional regulator CtsR		2002895	2003354
+SPD_2024	SPD_2024	"ABC transporter, ATP-binding protein"		2003472	2004201
+SPD_2025	SPD_2025	"ABC transporter, substrate-binding protein, putative"		2004200	2005208
+SPD_2026	SPD_2026	"ABC transporter, permease protein"		2005245	2005962
+SPD_2027	SPD_2027	hypothetical protein		2005966	2006257
+SPD_2028	cbpD	choline binding protein D		2006512	2007859
+SPD_2029	SPD_2029	hypothetical protein		2007947	2008214
+SPD_2030	dnaB	replicative DNA helicase		2008215	2009568
+SPD_2031	rplI	ribosomal protein L9		2009611	2010064
+SPD_2032	SPD_2032	DHH subfamily 1 protein		2010060	2012034
+SPD_2033	yfiA	ribosomal subunit interface protein		2012169	2012718
+SPD_2034	SPD_2034	"competence protein ComF, putative"		2012797	2013460
+SPD_2035	SPD_2035	"helicase, putative"		2013456	2014755
+SPD_2036	SPD_2036	conserved hypothetical protein TIGR00257		2014810	2015446
+SPD_2037	cysK	cysteine synthase A		2015730	2016651
+SPD_2038	SPD_2038	hypothetical protein		2016847	2017117
+SPD_2041	tsf	translation elongation factor Ts		2018234	2019275
+SPD_2042	rpsB	ribosomal protein S2		2019340	2020120
+SPD_2043	SPD_2043	secreted 45 kDa protein precursor		2020343	2021522
+SPD_2044	SPD_2044	"rod shpae-determining protein MreD, putative"		2021615	2022110
+SPD_2045	mreC	rod shape-determining protein MreC		2022109	2022928
+SPD_2046	SPD_2046	"cobalt ABC transporter, permease protein"		2022986	2023781
+SPD_2047	cbiO1	"cobalt ABC transporter, ATP-binding protein CbiO1"		2023773	2024613
+SPD_2048	cbiO2	"cobalt ABC transporter, ATP-binding protein CbiO2"		2024597	2025425
+SPD_2049	pgsA	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase		2025421	2025967
+SPD_2050	SPD_2050	hypothetical protein		2025977	2026799
+SPD_2051	SPD_2051	"peptidase, M16 family protein"		2026840	2028124
+SPD_2052	SPD_2052	hypothetical protein		2028120	2029371
+SPD_2053	SPD_2053	hypothetical protein		2029529	2029898
+SPD_2054	recF	recF protein		2029900	2030998
+SPD_2055	guaB	inosine-5'-monophosphate dehydrogenase		2031048	2032527
+SPD_2056	trpS	tryptophanyl-tRNA synthetase		2032678	2033704
+SPD_2057	SPD_2057	"ABC transporter, ATP-binding protein"		2033909	2035532
+SPD_2058	SPD_2058	"ABC transporter, permease protein, putative"		2035593	2038146
+SPD_2060	SPD_2060	"transcriptional regulator, TetR family protein"		2039957	2040500
+SPD_2063	comE	response regulator		2040742	2041495
+SPD_2064	comD	putative sensor histidine kinase ComD		2041491	2042817
+SPD_2065	comC1	competence-stimulating peptide type 1		2042837	2042963
+SPD_2067	SPD_2067	hypothetical protein		2043244	2043724
+SPD_2068	SPD_2068	serine protease		2043906	2045088
+SPD_2069	SPD_2069	SpoJ protein		2045145	2045904
